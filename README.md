@@ -2,41 +2,9 @@
 
 これは、`SwiftUI` のビュー要素のコレクションです。
 
-[SwiftUI ビューの基本フォーマット](#swiftui-ビューの基本フォーマット)
-
-[変数の型](#変数の型)
-
-[プレビュー](#プレビュー)
-
-[出発点](#出発点)
-
-[文字](#文字)
-
-[画像](#画像)
-
-[Table](#table)
-
-[Navigations](#navigations)
-
-[アクションを実行するにはユーザーに別のビューを表示するには](#アクションを実行するにはユーザーに別のビューを表示するには)
-
-[タブバー](#タブバー)
-
-[指定したオプションから1つの値を選択](#指定したオプションから1つの値を選択)
-
-[画面に複数の要素を表示](#画面に複数の要素を表示)
-
-[アラート / アクションシート](#アラート--アクションシート)
-
-[View modifiers](#viewmodifier-ビューモディファイア)
-
-[UIKit + SwiftUI](#uikit--swiftui)
-
-[プログラミング言語のSwiftUIに関する記事をさらに読むには、こちらをクリックしてください](https://mszmagic.com/ioskiji/#swiftui)
-
 # 文字
 
-| Text  | TextField  | SecureField  |
+| Text  | TextField  | SecureField |
 |---|---|---|
 | 1つの文字列を表示  |  編集可能なテキストフィールド | パスワード入力用の編集可能 |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | 
@@ -164,14 +132,14 @@
 | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
 | - | - |
 
-# Views to show progress
+# 進捗状況を表示するビュー
 
-| ProgressView |
-|---| 
-| 進捗状況を表示 |
-| <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} |
-| - |
+| ProgressView | Gauge |
+|---|---|
+| 進捗状況を表示 | 円形スタイル、または直線スタイルで進捗状況を表示 |
+| <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
+| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
+| - | > iOS 16 |
 
 # Features
 
