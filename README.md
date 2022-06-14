@@ -123,11 +123,11 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_PointLine.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_BarChart.swift){:target="_blank"} |
 | > iOS 16 | > iOS 16 | > iOS 16 |
 
-| Chart + AreaMark + LineMark |
-|---|
-| Combining multiple types of chart marks. In this case, drawing an area, and using a line to represent the average value of each area |
-| <img width="300" alt="image" src="/Image/area_mark_demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_AreaMark.swift){:target="_blank"} |
+| Chart + AreaMark + LineMark | Charts with multiple data set |
+|---|---|
+| Combining multiple types of chart marks. In this case, drawing an area, and using a line to represent the average value of each area | You can display multiple data sets within 1 chart. For example, we can compare the weather for 2 locations. |
+| <img width="300" alt="image" src="/Image/area_mark_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/charts_multiple_datasets_demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_AreaMark.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Multiple.swift){:target="_blank"} |
 
 
 # Layout related
