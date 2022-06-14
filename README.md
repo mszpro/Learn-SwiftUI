@@ -116,9 +116,9 @@
 
 # (New) Charts
 
-| Chart + PointMark |　Chart + LineMark | Chart + BarMark
-|---|---|
-| Display a point chart | Displaying a line chart (with points). This example also shows how to switch datasets. |
+| Chart + PointMark |　Chart + LineMark | Chart + BarMark |
+|---|---|---|
+| Display a point chart | Displaying a line chart (with points). This example also shows how to switch datasets. | Displays a bar chart |
 | <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/line_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/bar_chart_demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_PointLine.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_BarChart.swift){:target="_blank"} |
 | > iOS 16 | > iOS 16 | > iOS 16 |
