@@ -8,14 +8,14 @@
 |---|---|---|
 | 1つの文字列を表示  |  編集可能なテキストフィールド | パスワード入力用の編集可能 |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | 
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} |
 | - | - | - |
 
 | TextEditor |
 |---|
 | 長い文字列を表示して編集 |
 | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
 | - |
 
 # 画像
@@ -24,7 +24,7 @@
 |---|---|
 | 画像を表示 | システム画像を表示 |
 | <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/LocalImage_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/SFSymbolImage_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LocalImage_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SFSymbolImage_Example.swift){:target="_blank"} |
 | - | - |
 
 # Picker
@@ -33,7 +33,7 @@
 |---|---|
 | 色を選択できるようにします。 | 日付を選択します |
 | <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} |
 | - | - |
 
 # Map
@@ -42,7 +42,7 @@
 |---|
 | Map with annotations |
 | <img width="300" alt="image" src="/Image/Map.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Map_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Map_Example.swift){:target="_blank"} |
 | - |
 
 # Table
@@ -50,7 +50,7 @@
 | List | ForEach | Form |
 |---|---|---|
 | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/FormList.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ForEachList_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/FormList_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ForEachList_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/FormList_Example.swift){:target="_blank"} |
 | - | - | - |
 
 # Navigations
@@ -59,7 +59,7 @@
 |---|---|
 | ナビゲーションビュー内に自前のViewを埋め込み | バーにアイテムを表示します。 |
 | <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
 | - | - |
 
 # アクションを実行するには/ユーザーに別のビューを表示するには
@@ -68,7 +68,7 @@
 |---|---|---|
 | クリックしてアクションを実行 | クリックして別のビューに移動 | ビューシートを表示 |
 | <img width="300" alt="image" src="/Image/Button.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationLink.png?raw=true"> | <img width="300" alt="image" src="/Image/PresentedSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
 | - | - | - |
  
 # Tab view
@@ -77,7 +77,7 @@
 |---|
 | 画面の最下部にタブバーを表示 |
 | <img width="300" alt="image" src="/Image/TabBar.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/TabView_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TabView_Example.swift){:target="_blank"} |
 | - |
  
 # 指定したオプションから1つの値を選択
@@ -86,14 +86,14 @@
 |---|---|
 | ユーザーが機能をオン/オフできるようにする | 指定したオプションから1つの値を選択 |
 | <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/Picker.png?raw=true"> |
-|  [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} |
+|  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} |
 | - | - |
 
 | Stepper |
 |---|
 | 値を増減 | 
 | <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} |
 | - |
 
 # 画面に複数の要素を表示
@@ -104,14 +104,14 @@
 |---|---|---|
 | 水平配置 | 垂直配置 | ログインフォームの例 |
 | <img width="300" alt="image" src="/Image/HStack.png?raw=true"> | <img width="300" alt="image" src="/Image/VStack.png?raw=true"> | <img width="300" alt="image" src="/Image/LoginForm.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/HStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/VStack_Example.swift){:target="_blank"}  | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/LoginForm_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/HStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/VStack_Example.swift){:target="_blank"}  | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LoginForm_Example.swift){:target="_blank"} |
 | - | - | - |
  
 | ZStack |
 |---|
 | 奥行き配置（前後） | 
 | <img width="300" alt="image" src="/Image/ZStack.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} |
 | - |
 
 # Layout related
@@ -120,7 +120,7 @@
 |---|
 | コンテンツを表示および非表示 |
 | <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} |
 | - |
 
 # アラート / アクションシート
@@ -129,7 +129,7 @@
 |---|---|
 | アラートウィンドウを表示 | アクションシートを画面の最下部に表示 |
 | <img width="300" alt="image" src="/Image/Alert.png?raw=true"> | <img width="300" alt="image" src="/Image/ActionSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
 | - | - |
 
 # 進捗状況を表示するビュー
@@ -138,7 +138,7 @@
 |---|---|
 | 進捗状況を表示 | 円形スタイル、または直線スタイルで進捗状況を表示 |
 | <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
 | - | > iOS 16 |
 
 # Features
@@ -147,7 +147,7 @@
 |---|
 | Appleでサインイン  |
 | <img width="300" alt="image" src="/Image/SignInWithApple.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/SignInWithAppleButton_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SignInWithAppleButton_Example.swift){:target="_blank"} |
 | - |
  
  <br/><br/>
@@ -191,7 +191,7 @@
 
 こちらのコード例は、`SwiftUICompatible` と呼ばれるフレームワークを使用しています。
 
-[`SwiftUICompatible` へアクセスするにはこちらをクリックしてください。](https://github.com/mszmagic/SwiftUICompatible)
+[`SwiftUICompatible` へアクセスするにはこちらをクリックしてください。](https://github.com/mszpro/SwiftUICompatible)
 
 SwiftUI は新しいフレームワークであるので、フィーチャー UIKit の幾らかを欠いています。そららフィーチャー UIKit を活用する為には、UIViewControllerRepresentable を使用しなければなりません。
 
@@ -199,7 +199,7 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 |---|---|---|
 | ファイル内容をプレビュー | フォトピッカー | メールコンポーザー |
 | <img width="300" alt="image" src="/Image/PreviewController.png?raw=true"> | <img width="300" alt="image" src="/Image/PhotoPicker.png?raw=true"> | |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/PreviewController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/PhotoPickerController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/EmailCompose_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/PreviewController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/PhotoPickerController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/EmailCompose_Example.swift){:target="_blank"} |
 
 <br/><br/>
 
@@ -207,7 +207,7 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 |---|---|---|
 | テキストメッセージコンポーザー | ウェブ表示 | ドキュメントピッカー |
 | | <img width="300" alt="image" src="/Image/SafariView.png?raw=true"> | <img width="300" alt="image" src="/Image/FileBrowser.png?raw=true"> |
-| [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/MessageCompose_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/SafariView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszmagic/SwiftUI-Components-Library/blob/main/Code/Competible/FileBrowser_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/MessageCompose_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/SafariView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/FileBrowser_Example.swift){:target="_blank"} |
 
 # SwiftUI ビューの基本フォーマット
 
@@ -331,9 +331,12 @@ struct TextField_Example_Previews: PreviewProvider {
 
 # ⭐️
 
-**質問をしよう**：[この問題ページで、自由に `SwiftUI` についての質問をしてください。](https://github.com/mszmagic/SwiftUI-Components-Library/issues){:target="_blank"}
+最新情報は、私のTwitterをフォローしてください。
 
-**コードの提供**：[コードを提供するためのGithub PRを自由に作成してください。](https://github.com/mszmagic/SwiftUI-Components-Library){:target="_blank"}
+:relaxed: [Twitter @MszPro](https://twitter.com/MszPro)
+:relaxed: 個人ウェブサイト https://MszPro.com
 
-[こちらのウェブページにアクセスすると、私の公開されているQiitaの記事のリストをカテゴリー別にご覧いただけます。](https://mszmagic.com/?page_id=16)
+:sunny: 私の公開されているQiita記事のリストをカテゴリー別にご覧いただけます：
+<img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
+![writing-quickly_emoji_400.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/635330/640938e9-c121-8152-b8c4-8ab63124afcc.png)
