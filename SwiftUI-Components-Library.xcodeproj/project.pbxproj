@@ -10,6 +10,7 @@
 		2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488265285877A30057FBE1 /* MultipleDatePicker.swift */; };
 		2A48826A285879F70057FBE1 /* Charts_Single.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488269285879F70057FBE1 /* Charts_Single.swift */; };
 		2A48826C28587C1C0057FBE1 /* Charts_PointLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */; };
+		2A48826E28587DCD0057FBE1 /* Charts_BarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -59,6 +60,7 @@
 		2A488265285877A30057FBE1 /* MultipleDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
 		2A488269285879F70057FBE1 /* Charts_Single.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Single.swift; sourceTree = "<group>"; };
 		2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_PointLine.swift; sourceTree = "<group>"; };
+		2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_BarChart.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 				2A488265285877A30057FBE1 /* MultipleDatePicker.swift */,
 				2A488269285879F70057FBE1 /* Charts_Single.swift */,
 				2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */,
+				2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -293,6 +296,7 @@
 				DAC28BE52537D001009751EB /* MessageCompose_Example.swift in Sources */,
 				2A48826C28587C1C0057FBE1 /* Charts_PointLine.swift in Sources */,
 				2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */,
+				2A48826E28587DCD0057FBE1 /* Charts_BarChart.swift in Sources */,
 				DAC28BC02537CC91009751EB /* ActionSheet_Example.swift in Sources */,
 				DAC28BCB2537CC91009751EB /* SafariView_Example.swift in Sources */,
 				DAC28BC82537CC91009751EB /* ButtonItemSheet_Example.swift in Sources */,
