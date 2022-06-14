@@ -114,6 +114,15 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} |
 | - |
 
+# (New) Charts
+
+| Chart + PointMark |
+|---|
+| Display a point chart |
+| <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} |
+| > iOS 16 |
+
 # Layout related
 
 | DisclosureGroup |
