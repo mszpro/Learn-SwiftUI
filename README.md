@@ -116,12 +116,19 @@
 
 # (New) Charts
 
-| Chart + PointMark |　Chart + LineMark | Chart + BarMark |
+| Chart + PointMark |　Chart + LineMark + PointMark | Chart + BarMark |
 |---|---|---|
 | Display a point chart | Displaying a line chart (with points). This example also shows how to switch datasets. | Displays a bar chart |
 | <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/line_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/bar_chart_demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_PointLine.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_BarChart.swift){:target="_blank"} |
 | > iOS 16 | > iOS 16 | > iOS 16 |
+
+| Chart + AreaMark + LineMark |
+|---|
+| Combining multiple types of chart marks. In this case, drawing an area, and using a line to represent the average value of each area |
+| <img width="300" alt="image" src="/Image/area_mark_demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_AreaMark.swift){:target="_blank"} |
+
 
 # Layout related
 
