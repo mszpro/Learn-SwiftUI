@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488265285877A30057FBE1 /* MultipleDatePicker.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -53,6 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A488265285877A30057FBE1 /* MultipleDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */,
 				DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */,
 				DA6211EB259930BF00DAC95E /* Stepper_Example.swift */,
+				2A488265285877A30057FBE1 /* MultipleDatePicker.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -282,6 +285,7 @@
 				DAC28BD12537CC91009751EB /* AlertItems_Example.swift in Sources */,
 				DAC28BD32537CC91009751EB /* Text_Example.swift in Sources */,
 				DAC28BE52537D001009751EB /* MessageCompose_Example.swift in Sources */,
+				2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */,
 				DAC28BC02537CC91009751EB /* ActionSheet_Example.swift in Sources */,
 				DAC28BCB2537CC91009751EB /* SafariView_Example.swift in Sources */,
 				DAC28BC82537CC91009751EB /* ButtonItemSheet_Example.swift in Sources */,

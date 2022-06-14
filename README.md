@@ -29,12 +29,12 @@
 
 # Picker
 
-| ColorPicker | DatePicker |
-|---|---|
-| 色を選択できるようにします。 | 日付を選択します |
-| <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} |
-| - | - |
+| ColorPicker | DatePicker | (New) MultiDatePicker |
+|---|---|---|
+| 色を選択できるようにします。 | 日付を選択します | 複数日付選択ツール |
+| <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> | <img width="300" alt="image" src="/Image/multi_date_picker.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/MultipleDatePicker.swift){:target="_blank"} |
+| - | - | > iOS 16 |
 
 # Map
 
@@ -134,7 +134,7 @@
 
 # 進捗状況を表示するビュー
 
-| ProgressView | Gauge |
+| ProgressView | (New) Gauge |
 |---|---|
 | 進捗状況を表示 | 円形スタイル、または直線スタイルで進捗状況を表示 |
 | <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
@@ -334,9 +334,11 @@ struct TextField_Example_Previews: PreviewProvider {
 最新情報は、私のTwitterをフォローしてください。
 
 :relaxed: [Twitter @MszPro](https://twitter.com/MszPro)
+
 :relaxed: 個人ウェブサイト https://MszPro.com
 
 :sunny: 私の公開されているQiita記事のリストをカテゴリー別にご覧いただけます：
+
 <img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
 ![writing-quickly_emoji_400.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/635330/640938e9-c121-8152-b8c4-8ab63124afcc.png)
