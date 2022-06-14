@@ -116,12 +116,12 @@
 
 # (New) Charts
 
-| Chart + PointMark |
-|---|
-| Display a point chart |
-| <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} |
-| > iOS 16 |
+| Chart + PointMark |　Chart + LineMark |
+|---|---|
+| Display a point chart | Displaying a line chart (with points) |
+| <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/line_chart_demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_PointLine.swift){:target="_blank"} |
+| > iOS 16 | > iOS 16 |
 
 # Layout related
 
