@@ -15,6 +15,8 @@
 		2A4882722858805C0057FBE1 /* Charts_Multiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4882712858805C0057FBE1 /* Charts_Multiple.swift */; };
 		2A4BFA99293DC5F4002EA507 /* TextField_MultiLine_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */; };
 		2A4BFA9B293DC89B002EA507 /* Text_Markdown_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9A293DC89B002EA507 /* Text_Markdown_Example.swift */; };
+		2A4BFA9D293DCAF4002EA507 /* NavigationStack_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9C293DCAF4002EA507 /* NavigationStack_Example.swift */; };
+		2A4BFA9F293DCC45002EA507 /* NavigationSplitView_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -69,6 +71,8 @@
 		2A4882712858805C0057FBE1 /* Charts_Multiple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Multiple.swift; sourceTree = "<group>"; };
 		2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField_MultiLine_Example.swift; sourceTree = "<group>"; };
 		2A4BFA9A293DC89B002EA507 /* Text_Markdown_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text_Markdown_Example.swift; sourceTree = "<group>"; };
+		2A4BFA9C293DCAF4002EA507 /* NavigationStack_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack_Example.swift; sourceTree = "<group>"; };
+		2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitView_Example.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -188,6 +192,8 @@
 				DAC28BAF2537CC91009751EB /* Map_Example.swift */,
 				DAC28BB22537CC91009751EB /* ToolBar_Example.swift */,
 				DAC28BB32537CC91009751EB /* NavigationView_Example.swift */,
+				2A4BFA9C293DCAF4002EA507 /* NavigationStack_Example.swift */,
+				2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */,
 				DAC28BB42537CC91009751EB /* ColorPicker_Example.swift */,
 				DAC28BB52537CC91009751EB /* Alert_Example.swift */,
 				DAC28BB62537CC91009751EB /* NavigationLink_Example.swift */,
@@ -316,6 +322,7 @@
 				DAC28BCF2537CC91009751EB /* Alert_Example.swift in Sources */,
 				DAC28BCA2537CC91009751EB /* Map_Example.swift in Sources */,
 				DAFE9CB52538991C0036FB2B /* HStack_Example.swift in Sources */,
+				2A4BFA9F293DCC45002EA507 /* NavigationSplitView_Example.swift in Sources */,
 				DAC28BEB2537D1A6009751EB /* PreviewController_Example.swift in Sources */,
 				2A4BFA99293DC5F4002EA507 /* TextField_MultiLine_Example.swift in Sources */,
 				DAC28BE82537D0FE009751EB /* EmailCompose_Example.swift in Sources */,
@@ -325,6 +332,7 @@
 				DAC28BBF2537CC91009751EB /* SFSymbolImage_Example.swift in Sources */,
 				DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */,
 				DAFE9CB8253899230036FB2B /* VStack_Example.swift in Sources */,
+				2A4BFA9D293DCAF4002EA507 /* NavigationStack_Example.swift in Sources */,
 				DAC28BC92537CC91009751EB /* ButtonSheet_Example.swift in Sources */,
 				DAC28BBE2537CC91009751EB /* FormList_Example.swift in Sources */,
 				DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */,

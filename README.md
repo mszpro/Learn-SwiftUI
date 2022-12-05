@@ -24,7 +24,7 @@
 
 | Image (ローカルファイル) | Image (SFSymbol) |
 |---|---|
-| 画像を表示 | システム画像を表示 |
+| 画像を表示 | SFシステム画像を表示 |
 | <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LocalImage_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SFSymbolImage_Example.swift){:target="_blank"} |
 | - | - |
@@ -32,7 +32,7 @@
 
 # Picker
 
-| ColorPicker | DatePicker | (New) MultiDatePicker |
+| ColorPicker | DatePicker | MultiDatePicker |
 |---|---|---|
 | 色を選択できるようにします。 | 日付を選択します | 複数日付選択ツール |
 | <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> | <img width="300" alt="image" src="/Image/multi_date_picker.png?raw=true"> |
@@ -61,13 +61,27 @@
 
 # Navigations
 
-| NavigationView | ToolbarItem |
+| NavigationStack | NavigationSplitView |
+| ナビゲーションを追加する | サイドバーメニューを含むナビゲーションを追加する |
+| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationSplitView-demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationSplitView_Example.swift){:target="_blank"} |
+| >= iOS 16 | >= iOS 16 |
+|  [Udemyビデオ](#) |  [Udemyビデオ](#) |
+
+| ToolbarItem |
+| バーにアイテムを表示します |
+| <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
+|  - |
+|  [Udemyビデオ](#) |
+
+| NavigationView | 
 |---|---|
-| ナビゲーションビュー内に自前のViewを埋め込み | バーにアイテムを表示します。 |
-| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
-| - | - |
-| [Udemyビデオ](#) | [Udemyビデオ](#) |
+| ナビゲーションビュー内に自前のViewを埋め込み | 
+| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | 
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} |
+| DEPRECATED 廃止された < iOS 16 |
+| [Udemyビデオ](#) |
 
 # アクションを実行するには/ユーザーに別のビューを表示するには
 
