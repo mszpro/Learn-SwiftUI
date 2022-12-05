@@ -22,6 +22,7 @@
 		2A4BFAA5293DD9F7002EA507 /* ShareSheet_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */; };
 		2A4BFAA7293DDB0C002EA507 /* Slider_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */; };
 		2A4BFAAA293DDCF6002EA507 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA9293DDCF6002EA507 /* LICENSE */; };
+		2A4BFAAC293DDE75002EA507 /* Alert_withTextField_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -83,6 +84,7 @@
 		2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet_Demo.swift; sourceTree = "<group>"; };
 		2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider_Example.swift; sourceTree = "<group>"; };
 		2A4BFAA9293DDCF6002EA507 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert_withTextField_Example.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -208,6 +210,7 @@
 				2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */,
 				DAC28BB42537CC91009751EB /* ColorPicker_Example.swift */,
 				DAC28BB52537CC91009751EB /* Alert_Example.swift */,
+				2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */,
 				DAC28BB62537CC91009751EB /* NavigationLink_Example.swift */,
 				DAC28BB72537CC91009751EB /* AlertItems_Example.swift */,
 				DAC28BB82537CC91009751EB /* List_Example.swift */,
@@ -338,6 +341,7 @@
 				DAC28BCF2537CC91009751EB /* Alert_Example.swift in Sources */,
 				DAC28BCA2537CC91009751EB /* Map_Example.swift in Sources */,
 				2A4BFAA7293DDB0C002EA507 /* Slider_Example.swift in Sources */,
+				2A4BFAAC293DDE75002EA507 /* Alert_withTextField_Example.swift in Sources */,
 				DAFE9CB52538991C0036FB2B /* HStack_Example.swift in Sources */,
 				2A4BFA9F293DCC45002EA507 /* NavigationSplitView_Example.swift in Sources */,
 				DAC28BEB2537D1A6009751EB /* PreviewController_Example.swift in Sources */,

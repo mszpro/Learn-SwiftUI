@@ -165,7 +165,7 @@ When my SwiftUI Udemy course publishes, you will also get a free or discount cou
  
  <br>
  
- # 地図
+# 地図
 
 | Map |
 |---|
@@ -215,13 +215,13 @@ import Charts
 
 # アラート / アクションシート
 
-| Alert | ActionSheet |
-|---|---|
-| アラートウィンドウを表示 | アクションシートを画面の最下部に表示 |
-| <img width="300" alt="image" src="/Image/Alert.png?raw=true"> | <img width="300" alt="image" src="/Image/ActionSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
-| - | - |
-| Udemyビデオ | Udemyビデオ |
+| Alert | Alert + TextField | ActionSheet |
+|---|---|---|
+| アラートウィンドウを表示 | 入力用のテキストフィールドを持つアラートを表示 | アクションシートを画面の最下部に表示 |
+| <img width="300" alt="image" src="/Image/Alert.png?raw=true"> | <img width="300" alt="image" src="/Image/alert-with-textfield-demo.jpeg?raw=true"> | <img width="300" alt="image" src="/Image/ActionSheet.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Alert_withTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
+| - | - | - |
+| Udemyビデオ | Udemyビデオ | Udemyビデオ |
 
 <br>
 
