@@ -8,6 +8,15 @@
 import SwiftUI
 import Charts
 
+struct ChartEntry: Identifiable {
+    var id: String {
+        return title
+    }
+    var title: String
+    var value: Int
+    var color: Color = .black
+}
+
 struct Charts_BarChart: View {
     
     let data: [ChartEntry] = [

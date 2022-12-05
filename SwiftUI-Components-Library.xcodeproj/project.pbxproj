@@ -13,6 +13,7 @@
 		2A48826E28587DCD0057FBE1 /* Charts_BarChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */; };
 		2A48827028587EFF0057FBE1 /* Charts_AreaMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */; };
 		2A4882722858805C0057FBE1 /* Charts_Multiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4882712858805C0057FBE1 /* Charts_Multiple.swift */; };
+		2A4BFA99293DC5F4002EA507 /* TextField_MultiLine_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -65,6 +66,7 @@
 		2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_BarChart.swift; sourceTree = "<group>"; };
 		2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_AreaMark.swift; sourceTree = "<group>"; };
 		2A4882712858805C0057FBE1 /* Charts_Multiple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Multiple.swift; sourceTree = "<group>"; };
+		2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField_MultiLine_Example.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 			children = (
 				DAC28BB02537CC91009751EB /* Competible */,
 				DAC28BA12537CC91009751EB /* TextField_Example.swift */,
+				2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */,
 				DAC28BA22537CC91009751EB /* ButtonAction_Example.swift */,
 				DAC28BA32537CC91009751EB /* FormList_Example.swift */,
 				DAC28BA42537CC91009751EB /* SFSymbolImage_Example.swift */,
@@ -311,6 +314,7 @@
 				DAC28BCA2537CC91009751EB /* Map_Example.swift in Sources */,
 				DAFE9CB52538991C0036FB2B /* HStack_Example.swift in Sources */,
 				DAC28BEB2537D1A6009751EB /* PreviewController_Example.swift in Sources */,
+				2A4BFA99293DC5F4002EA507 /* TextField_MultiLine_Example.swift in Sources */,
 				DAC28BE82537D0FE009751EB /* EmailCompose_Example.swift in Sources */,
 				DAC28BCD2537CC91009751EB /* NavigationView_Example.swift in Sources */,
 				2A48827028587EFF0057FBE1 /* Charts_AreaMark.swift in Sources */,
@@ -474,7 +478,7 @@
 				DEVELOPMENT_TEAM = 9LFMJA3SC2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Components-Library/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -496,7 +500,7 @@
 				DEVELOPMENT_TEAM = 9LFMJA3SC2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "SwiftUI-Components-Library/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
