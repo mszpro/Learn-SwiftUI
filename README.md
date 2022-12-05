@@ -62,6 +62,7 @@
 # Navigations
 
 | NavigationStack | NavigationSplitView |
+|---|---|
 | ナビゲーションを追加する | サイドバーメニューを含むナビゲーションを追加する |
 | <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationSplitView-demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationSplitView_Example.swift){:target="_blank"} |
@@ -69,6 +70,7 @@
 |  [Udemyビデオ](#) |  [Udemyビデオ](#) |
 
 | ToolbarItem |
+|---|
 | バーにアイテムを表示します |
 | <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
