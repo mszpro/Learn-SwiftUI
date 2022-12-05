@@ -4,20 +4,19 @@
 
 # 文字
 
-| Text  | TextField | TextField (.axis) |
+| Text | TextField | TextField (.axis) |
 |---|---|---|
 | 1つの文字列を表示  |  編集可能なテキストフィールド | 複数行のテキストフィールド |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} |
 | - | - | >= iOS 16 |
-| - | - | - |
 
-| SecureField | TextEditor |
-|---|---|
-| 長い文字列を表示して編集 | パスワード入力用 | 
-| <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} |
-| - | - |
+| Text (markdown) | SecureField | TextEditor |
+|---|---|---|
+| マークダウンでテキストを表示する | 長い文字列を表示して編集 | パスワード入力用 | 
+| <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} |
+| - | - | - |
 
 # 画像
 

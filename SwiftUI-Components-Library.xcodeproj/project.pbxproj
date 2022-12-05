@@ -14,6 +14,7 @@
 		2A48827028587EFF0057FBE1 /* Charts_AreaMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */; };
 		2A4882722858805C0057FBE1 /* Charts_Multiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4882712858805C0057FBE1 /* Charts_Multiple.swift */; };
 		2A4BFA99293DC5F4002EA507 /* TextField_MultiLine_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */; };
+		2A4BFA9B293DC89B002EA507 /* Text_Markdown_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9A293DC89B002EA507 /* Text_Markdown_Example.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -67,6 +68,7 @@
 		2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_AreaMark.swift; sourceTree = "<group>"; };
 		2A4882712858805C0057FBE1 /* Charts_Multiple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Multiple.swift; sourceTree = "<group>"; };
 		2A4BFA98293DC5F4002EA507 /* TextField_MultiLine_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextField_MultiLine_Example.swift; sourceTree = "<group>"; };
+		2A4BFA9A293DC89B002EA507 /* Text_Markdown_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text_Markdown_Example.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				DAC28BB72537CC91009751EB /* AlertItems_Example.swift */,
 				DAC28BB82537CC91009751EB /* List_Example.swift */,
 				DAC28BB92537CC91009751EB /* Text_Example.swift */,
+				2A4BFA9A293DC89B002EA507 /* Text_Markdown_Example.swift */,
 				DAC28BBA2537CC91009751EB /* Toggle_Example.swift */,
 				DAC28BBB2537CC91009751EB /* ForEachList_Example.swift */,
 				DAFE9CB42538991C0036FB2B /* HStack_Example.swift */,
@@ -329,6 +332,7 @@
 				DAC28B912537CC69009751EB /* SwiftUI_Components_LibraryApp.swift in Sources */,
 				DAC28BD52537CC91009751EB /* ForEachList_Example.swift in Sources */,
 				DAC28BBD2537CC91009751EB /* ButtonAction_Example.swift in Sources */,
+				2A4BFA9B293DC89B002EA507 /* Text_Markdown_Example.swift in Sources */,
 				2A4882722858805C0057FBE1 /* Charts_Multiple.swift in Sources */,
 				2A48826A285879F70057FBE1 /* Charts_Single.swift in Sources */,
 				DAC28BC32537CC91009751EB /* DisclosureGroup_Example.swift in Sources */,
