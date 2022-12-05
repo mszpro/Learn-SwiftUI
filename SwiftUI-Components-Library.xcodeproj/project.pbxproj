@@ -18,6 +18,8 @@
 		2A4BFA9D293DCAF4002EA507 /* NavigationStack_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9C293DCAF4002EA507 /* NavigationStack_Example.swift */; };
 		2A4BFA9F293DCC45002EA507 /* NavigationSplitView_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */; };
 		2A4BFAA1293DD448002EA507 /* Grid_demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA0293DD448002EA507 /* Grid_demo.swift */; };
+		2A4BFAA3293DD582002EA507 /* PhotosPicker_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */; };
+		2A4BFAA5293DD9F7002EA507 /* ShareSheet_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -75,6 +77,8 @@
 		2A4BFA9C293DCAF4002EA507 /* NavigationStack_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStack_Example.swift; sourceTree = "<group>"; };
 		2A4BFA9E293DCC45002EA507 /* NavigationSplitView_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitView_Example.swift; sourceTree = "<group>"; };
 		2A4BFAA0293DD448002EA507 /* Grid_demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid_demo.swift; sourceTree = "<group>"; };
+		2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosPicker_Demo.swift; sourceTree = "<group>"; };
+		2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet_Demo.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -219,6 +223,8 @@
 				2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */,
 				2A4882712858805C0057FBE1 /* Charts_Multiple.swift */,
 				2A4BFAA0293DD448002EA507 /* Grid_demo.swift */,
+				2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */,
+				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -351,6 +357,7 @@
 				DAC28BD22537CC91009751EB /* List_Example.swift in Sources */,
 				DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */,
 				DAC28BC42537CC91009751EB /* Picker_Example.swift in Sources */,
+				2A4BFAA3293DD582002EA507 /* PhotosPicker_Demo.swift in Sources */,
 				DAC28BC72537CC91009751EB /* ProgressView_Example.swift in Sources */,
 				DAC28BC62537CC91009751EB /* TextEditor_Example.swift in Sources */,
 				DAC28BCE2537CC91009751EB /* ColorPicker_Example.swift in Sources */,
@@ -359,6 +366,7 @@
 				DAC28BBC2537CC91009751EB /* TextField_Example.swift in Sources */,
 				DAC28BF52537D355009751EB /* PhotoPickerController_Example.swift in Sources */,
 				DAC28BC52537CC91009751EB /* SecureTextField_Example.swift in Sources */,
+				2A4BFAA5293DD9F7002EA507 /* ShareSheet_Demo.swift in Sources */,
 				DAFE9CBE2538A0C90036FB2B /* ZStack_Example.swift in Sources */,
 				2A4BFAA1293DD448002EA507 /* Grid_demo.swift in Sources */,
 				DAC28BE22537CF28009751EB /* FileBrowser_Example.swift in Sources */,

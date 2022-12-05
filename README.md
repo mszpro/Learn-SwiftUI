@@ -2,6 +2,12 @@
 
 これは、`SwiftUI` のビュー要素のコレクションです。
 
+## iOS Dev Letter
+
+Subscribe to my iOS dev letter to get updates about my articles, programming tips on Swift, SwiftUI, and more!
+There will be at maximum 1 email a month.
+When my SwiftUI Udemy course publishes, you will also get a free or discount coupon to access the course within the newsletter email.
+
 # 文字
 
 | Text | Text (markdown) |
@@ -233,13 +239,13 @@ import Charts
 
 # Features
 
-| Sign in with Apple |
-|---|
-| Appleでサインイン  |
-| <img width="300" alt="image" src="/Image/SignInWithApple.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SignInWithAppleButton_Example.swift){:target="_blank"} |
-| - |
-| Udemyビデオ |
+| Sign in with Apple | PhotosPicker | ShareLink |
+|---|---|---|
+| Appleでサインイン | 写真選択ツール | 共有シート |
+| <img width="300" alt="image" src="/Image/SignInWithApple.png?raw=true"> | <img width="300" alt="image" src="/Image/photo-picker-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/share-sheet-demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SignInWithAppleButton_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/PhotosPicker_Demo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ShareSheet_Demo.swift){:target="_blank"} |
+| - | >= iOS 16 | >= iOS 16 |
+| Udemyビデオ | Udemyビデオ | Udemyビデオ |
  
 <br>
  
