@@ -12,6 +12,8 @@
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
+<br>
+
 # 画像
 
 | Image (ローカルファイル) | Image (SFSymbol) |
@@ -21,6 +23,8 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LocalImage_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SFSymbolImage_Example.swift){:target="_blank"} |
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+<br>
 
 # 画面に複数の要素を表示
 
@@ -41,6 +45,8 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} |
 | - |
 | [Udemyビデオ](#) |
+
+<br>
 
 # フォーム入力
 
@@ -76,6 +82,8 @@
 | - |
 | [Udemyビデオ](#) |
 
+<br>
+
 # ピッカー / 選択
 
 | ColorPicker | DatePicker | MultiDatePicker |
@@ -86,6 +94,8 @@
 | - | - | > iOS 16 |
 | [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
+<br>
+
 # 表
 
 | List | ForEach |
@@ -94,6 +104,8 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ForEachList_Example.swift){:target="_blank"} |
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+<br>
 
 # ナビゲート
 
@@ -121,6 +133,8 @@
 | DEPRECATED 廃止された < iOS 16 |
 | [Udemyビデオ](#) |
 
+<br>
+
 # アクションを実行するには/ユーザーに別のビューを表示するには
 
 | Button | NavigationLink | sheet |
@@ -130,6 +144,8 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
 | - | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+ 
+ <br>
  
 # タブビュー
 
@@ -141,6 +157,8 @@
 | - |
  | [Udemyビデオ](#) |
  
+ <br>
+ 
  # 地図
 
 | Map |
@@ -150,6 +168,8 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Map_Example.swift){:target="_blank"} |
 | - |
 | [Udemyビデオ](#) |
+
+<br>
 
 # チャート
 
@@ -173,6 +193,7 @@ import Charts
 | >= iOS 16 | >= iOS 16 |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
+<br>
 
 # レイアウト
 
@@ -184,6 +205,8 @@ import Charts
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
+<br>
+
 # アラート / アクションシート
 
 | Alert | ActionSheet |
@@ -194,15 +217,19 @@ import Charts
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
+<br>
+
 # 進捗状況を表示するビュー
 
-| ProgressView | (New) Gauge |
+| ProgressView | Gauge |
 |---|---|
 | 進捗状況を表示 | 円形スタイル、または直線スタイルで進捗状況を表示 |
 | <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
 | - | > iOS 16 |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+<br>
 
 # Features
 
@@ -214,7 +241,7 @@ import Charts
 | - |
 | [Udemyビデオ](#) |
  
- <br/><br/>
+<br>
  
 # ViewModifier ビューモディファイア
  
@@ -238,6 +265,8 @@ import Charts
 | .foregroundColor(.blue) | オブジェクトの色を変更 |
 | .onAppear | 画面にビューが表示されたときに実行するアクション |
 | .onTapGesture | ユーザーがビューをタップしたときにアクションを実行する |
+ 
+<br>
  
 #  UIKit + SwiftUI
  
@@ -273,6 +302,8 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 | | <img width="300" alt="image" src="/Image/SafariView.png?raw=true"> | <img width="300" alt="image" src="/Image/FileBrowser.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/MessageCompose_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/SafariView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/FileBrowser_Example.swift){:target="_blank"} |
 
+<br>
+
 # SwiftUI ビューの基本フォーマット
 
 SwiftUI ビューの基本構造は次のとおり：
@@ -299,6 +330,8 @@ struct TextField_Example: View {
 このWebページで提供されているサンプルコードでは、`body` コードブロック内のコンテンツに注意を払う必要がある。
 
 `// 変数` セクションで、変数を宣言する。
+
+<br>
 
 # 変数の型
 
@@ -375,6 +408,8 @@ struct ButtonSheet_Example: View {
 }
 ```
 
+<br>
+
 # プレビュー
 
 XcodeではSwiftUIファイルに加えた変更を直接プレビューすることができます。プレビューは以下のように宣言します。
@@ -388,6 +423,8 @@ struct TextField_Example_Previews: PreviewProvider {
 ```
 
 `static var previews: some View` 内で、SwiftUI表示を初期化していただけます。Xコードの右側にある `Resume` ボタンをクリックするとプレビューが表示されます。
+
+<br>
 
 # ⭐️
 
