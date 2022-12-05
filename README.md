@@ -4,21 +4,13 @@
 
 # 文字
 
-| Text | TextField | TextField (.axis) |
-|---|---|---|
-| 1つの文字列を表示  |  編集可能なテキストフィールド | 複数行のテキストフィールド |
-| <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} |
-| - | - | >= iOS 16 |
-| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
-
-| Text (markdown) | SecureField | TextEditor |
-|---|---|---|
-| マークダウンでテキストを表示する | 長い文字列を表示して編集 | パスワード入力用 | 
-| <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} |
-| - | - | - |
-| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+| Text | Text (markdown) |
+|---|---|
+| 1つの文字列を表示 | マークダウンでテキストを表示する |
+| <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} |
+| - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) |
 
 # 画像
 
@@ -29,99 +21,6 @@
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LocalImage_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SFSymbolImage_Example.swift){:target="_blank"} |
 | - | - |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
-
-# Picker
-
-| ColorPicker | DatePicker | MultiDatePicker |
-|---|---|---|
-| 色を選択できるようにします。 | 日付を選択します | 複数日付選択ツール |
-| <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> | <img width="300" alt="image" src="/Image/multi_date_picker.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/MultipleDatePicker.swift){:target="_blank"} |
-| - | - | > iOS 16 |
-| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
-
-# Map
-
-| Map |
-|---|
-| Map with annotations |
-| <img width="300" alt="image" src="/Image/Map.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Map_Example.swift){:target="_blank"} |
-| - |
-| [Udemyビデオ](#) |
-
-# Table
-
-| List | ForEach | Form |
-|---|---|---|
-| <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/FormList.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ForEachList_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/FormList_Example.swift){:target="_blank"} |
-| - | - | - |
-| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
-
-# Navigations
-
-| NavigationStack | NavigationSplitView |
-|---|---|
-| ナビゲーションを追加する | サイドバーメニューを含むナビゲーションを追加する |
-| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationSplitView-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationSplitView_Example.swift){:target="_blank"} |
-| >= iOS 16 | >= iOS 16 |
-|  [Udemyビデオ](#) |  [Udemyビデオ](#) |
-
-| ToolbarItem |
-|---|
-| バーにアイテムを表示します |
-| <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
-|  - |
-|  [Udemyビデオ](#) |
-
-| NavigationView | 
-|---|---|
-| ナビゲーションビュー内に自前のViewを埋め込み | 
-| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | 
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} |
-| DEPRECATED 廃止された < iOS 16 |
-| [Udemyビデオ](#) |
-
-# アクションを実行するには/ユーザーに別のビューを表示するには
-
-| Button | NavigationLink | ビューシート |
-|---|---|---|
-| クリックしてアクションを実行 | クリックして別のビューに移動 | ビューシートを表示 |
-| <img width="300" alt="image" src="/Image/Button.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationLink.png?raw=true"> | <img width="300" alt="image" src="/Image/PresentedSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
-| - | - | - |
-| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
- 
-# Tab view
-
-| TabView |
-|---|
-| 画面の最下部にタブバーを表示 |
-| <img width="300" alt="image" src="/Image/TabBar.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TabView_Example.swift){:target="_blank"} |
-| - |
- | [Udemyビデオ](#) |
- 
-# 指定したオプションから1つの値を選択
-
-| Toggle | Picker |
-|---|---|
-| ユーザーが機能をオン/オフできるようにする | 指定したオプションから1つの値を選択 |
-| <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/Picker.png?raw=true"> |
-|  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} |
-| - | - |
-| [Udemyビデオ](#) | [Udemyビデオ](#) |
-
-| Stepper |
-|---|
-| 値を増減 | 
-| <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} |
-| - |
-| [Udemyビデオ](#) |
 
 # 画面に複数の要素を表示
 
@@ -143,14 +42,127 @@
 | - |
 | [Udemyビデオ](#) |
 
-# (New) チャート
+# フォーム入力
+
+| Form |
+|---|
+| <img width="300" alt="image" src="/Image/FormList.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/FormList_Example.swift){:target="_blank"} |
+| - |
+| [Udemyビデオ](#) |
+
+| Toggle | Picker | TextField |
+|---|---|---|
+| ユーザーが機能をオン/オフできるようにする | 指定したオプションから1つの値を選択 | 編集可能なテキストフィールド |
+| <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/Picker.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
+|  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} |
+| - | - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+| TextField (.axis) | SecureField | TextEditor |
+|---|---|---|
+| 複数行のテキストフィールド | パスワード入力用 | 長い文字列を表示して編集 |
+| <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
+| >= iOS 16 | - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+
+| Stepper |
+|---|
+| 値を増減 | 
+| <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} |
+| - |
+| [Udemyビデオ](#) |
+
+# ピッカー / 選択
+
+| ColorPicker | DatePicker | MultiDatePicker |
+|---|---|---|
+| 色を選択できるようにします。 | 日付を選択します | 複数日付選択ツール |
+| <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> | <img width="300" alt="image" src="/Image/multi_date_picker.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DatePicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/MultipleDatePicker.swift){:target="_blank"} |
+| - | - | > iOS 16 |
+| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+# 表
+
+| List | ForEach |
+|---|---|
+| <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ForEachList_Example.swift){:target="_blank"} |
+| - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) |
+
+# ナビゲート
+
+| NavigationStack | NavigationSplitView |
+|---|---|
+| ナビゲーションを追加する | サイドバーメニューを含むナビゲーションを追加する |
+| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationSplitView-demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationSplitView_Example.swift){:target="_blank"} |
+| >= iOS 16 | >= iOS 16 |
+|  [Udemyビデオ](#) |  [Udemyビデオ](#) |
+
+| ToolbarItem |
+|---|
+| バーにアイテムを表示します |
+| <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
+|  - |
+|  [Udemyビデオ](#) |
+
+| NavigationView | 
+|---|
+| ナビゲーションビュー内に自前のViewを埋め込み | 
+| <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | 
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationView_Example.swift){:target="_blank"} |
+| DEPRECATED 廃止された < iOS 16 |
+| [Udemyビデオ](#) |
+
+# アクションを実行するには/ユーザーに別のビューを表示するには
+
+| Button | NavigationLink | sheet |
+|---|---|---|
+| クリックしてアクションを実行 | クリックして別のビューに移動 | ビューシートを表示 |
+| <img width="300" alt="image" src="/Image/Button.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationLink.png?raw=true"> | <img width="300" alt="image" src="/Image/PresentedSheet.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
+| - | - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
+ 
+# タブビュー
+
+| TabView |
+|---|
+| 画面の最下部にタブバーを表示 |
+| <img width="300" alt="image" src="/Image/TabBar.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TabView_Example.swift){:target="_blank"} |
+| - |
+ | [Udemyビデオ](#) |
+ 
+ # 地図
+
+| Map |
+|---|
+| Map with annotations |
+| <img width="300" alt="image" src="/Image/Map.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Map_Example.swift){:target="_blank"} |
+| - |
+| [Udemyビデオ](#) |
+
+# チャート
+
+```swift
+import Charts
+```
 
 | Chart + PointMark |　Chart + LineMark + PointMark | Chart + BarMark |
 |---|---|---|
 | ポイント チャート | 折れ線グラフ | 棒グラフ |
 | <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/line_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/bar_chart_demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_PointLine.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_BarChart.swift){:target="_blank"} |
-| > iOS 16 | > iOS 16 | > iOS 16 |
+| >= iOS 16 | >= iOS 16 | >= iOS 16 |
 | [Udemyビデオ](#) | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
 | Chart + AreaMark + LineMark | Charts with multiple data set |
@@ -158,18 +170,19 @@
 | 面グラフ | 1つのグラフの中に複数のデータを表示することができます。例えば、2ヶ所の天気を比較することができます。 |
 | <img width="300" alt="image" src="/Image/area_mark_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/charts_multiple_datasets_demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_AreaMark.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Charts_Multiple.swift){:target="_blank"} |
+| >= iOS 16 | >= iOS 16 |
 | [Udemyビデオ](#) | [Udemyビデオ](#) |
 
 
 # レイアウト
 
-| DisclosureGroup |
-|---|
-| コンテンツを表示および非表示 |
-| <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} |
-| - |
-| [Udemyビデオ](#) |
+| DisclosureGroup | GroupBox |
+|---|---|
+| コンテンツを表示および非表示 | ? |
+| <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> | ? |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} | ? |
+| - | - |
+| [Udemyビデオ](#) | [Udemyビデオ](#) |
 
 # アラート / アクションシート
 
