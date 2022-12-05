@@ -81,6 +81,7 @@
 		2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosPicker_Demo.swift; sourceTree = "<group>"; };
 		2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet_Demo.swift; sourceTree = "<group>"; };
 		2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider_Example.swift; sourceTree = "<group>"; };
+		2A4BFAA8293DDC6F002EA507 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -160,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				DAC28BDC2537CE3D009751EB /* README.md */,
+				2A4BFAA8293DDC6F002EA507 /* LICENSE */,
 				DAC28B902537CC69009751EB /* SwiftUI_Components_LibraryApp.swift */,
 				DAC28BA02537CC91009751EB /* Code */,
 				DAC28B942537CC69009751EB /* Assets.xcassets */,
