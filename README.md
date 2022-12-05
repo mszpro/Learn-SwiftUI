@@ -74,19 +74,19 @@ When my SwiftUI Udemy course publishes, you will also get a free or discount cou
 | TextField (.axis) | SecureField | TextEditor |
 |---|---|---|
 | 複数行のテキストフィールド | パスワード入力用 | 長い文字列を表示して編集 |
-| <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> |
+| <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
 | >= iOS 16 | - | - |
 | Udemyビデオ | Udemyビデオ | Udemyビデオ |
 
 
-| Stepper |
-|---|
-| 値を増減 | 
-| <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} |
-| - |
-| Udemyビデオ |
+| Stepper | Slider |
+|---|---|
+| 値を増減 | 値を増減 |
+| <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> | <img width="300" alt="image" src="/Image/Slider-demo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Stepper_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Slider_Example.swift){:target="_blank"} |
+| - | - |
+| Udemyビデオ | Udemyビデオ |
 
 <br>
 

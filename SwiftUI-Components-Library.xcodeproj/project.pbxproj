@@ -20,6 +20,7 @@
 		2A4BFAA1293DD448002EA507 /* Grid_demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA0293DD448002EA507 /* Grid_demo.swift */; };
 		2A4BFAA3293DD582002EA507 /* PhotosPicker_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */; };
 		2A4BFAA5293DD9F7002EA507 /* ShareSheet_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */; };
+		2A4BFAA7293DDB0C002EA507 /* Slider_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -79,6 +80,7 @@
 		2A4BFAA0293DD448002EA507 /* Grid_demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid_demo.swift; sourceTree = "<group>"; };
 		2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosPicker_Demo.swift; sourceTree = "<group>"; };
 		2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareSheet_Demo.swift; sourceTree = "<group>"; };
+		2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider_Example.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				DAC28BA72537CC91009751EB /* TabView_Example.swift */,
 				DAC28BA82537CC91009751EB /* DisclosureGroup_Example.swift */,
 				DAC28BA92537CC91009751EB /* Picker_Example.swift */,
+				2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */,
 				DAC28BAA2537CC91009751EB /* SecureTextField_Example.swift */,
 				DAC28BAB2537CC91009751EB /* TextEditor_Example.swift */,
 				DAC28BAC2537CC91009751EB /* ProgressView_Example.swift */,
@@ -330,6 +333,7 @@
 				DAFE9CBB2538992B0036FB2B /* LoginForm_Example.swift in Sources */,
 				DAC28BCF2537CC91009751EB /* Alert_Example.swift in Sources */,
 				DAC28BCA2537CC91009751EB /* Map_Example.swift in Sources */,
+				2A4BFAA7293DDB0C002EA507 /* Slider_Example.swift in Sources */,
 				DAFE9CB52538991C0036FB2B /* HStack_Example.swift in Sources */,
 				2A4BFA9F293DCC45002EA507 /* NavigationSplitView_Example.swift in Sources */,
 				DAC28BEB2537D1A6009751EB /* PreviewController_Example.swift in Sources */,
