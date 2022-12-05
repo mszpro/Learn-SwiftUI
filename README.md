@@ -4,9 +4,12 @@
 
 ## iOS Dev Letter
 
-Subscribe to my iOS dev letter to get updates about my articles, programming tips on Swift, SwiftUI, and more!
-There will be at maximum 1 email a month.
-When my SwiftUI Udemy course publishes, you will also get a free or discount coupon to access the course within the newsletter email.
+私のiOS開発者レターを購読して、
+私の記事、Swift、SwiftUIに関するプログラミングのヒント、
+その他の最新情報を入手しましょう。
+最大で月に1通のメールが届く予定です。
+
+私のSwiftUI Udemyコースが公開されると、コースにアクセスするための無料または割引クーポンもニュースレターメール内に届きます。
 
 # 文字
 
