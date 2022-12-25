@@ -252,7 +252,6 @@
 				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
 				2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */,
 				2AD9F2AE295823C500A6622D /* DataPasteButton.swift */,
-				2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */,
 				2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */,
 				2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */,
 			);
@@ -262,6 +261,7 @@
 		DAC28BB02537CC91009751EB /* Competible */ = {
 			isa = PBXGroup;
 			children = (
+				2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */,
 				DAC28BB12537CC91009751EB /* SafariView_Example.swift */,
 				DAC28BE12537CF28009751EB /* FileBrowser_Example.swift */,
 				DAC28BE42537D001009751EB /* MessageCompose_Example.swift */,
