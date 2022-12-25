@@ -489,15 +489,13 @@ struct TextField_Example_Previews: PreviewProvider {
 
 # ⭐️
 
-最新情報は、私のTwitterをフォローしてください。
-
 [Mastodon @me@mszpro.com](https://sns.mszpro.com/home)
 
 [Twitter @MszPro](https://twitter.com/MszPro)
 
-個人ウェブサイト https://MszPro.com
+[個人ウェブサイト](https://MszPro.com)
 
-:sunny: 私の公開されているQiita記事のリストをカテゴリー別にご覧いただけます：
+:sunny: 私の公開されている記事をカテゴリー別にご覧いただけます：
 
 <img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
