@@ -209,6 +209,9 @@ iOSプログラミングやSwiftUIに関する記事、
 import Charts
 ```
 
+Qiita記事
+[WWDC22、iOS 16：SwiftUIでChartsフレームワークを使ってチャートを作成](https://qiita.com/MaShunzhe/items/cae62af8b07f4f474fd8)
+
 | Chart + PointMark |　Chart + LineMark + PointMark | Chart + BarMark |
 |---|---|---|
 | ポイント チャート | 折れ線グラフ | 棒グラフ |
