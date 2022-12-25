@@ -9,7 +9,7 @@
 その他の最新情報を入手しましょう。
 最大で月に1通のメールが届く予定です。
 
-私のSwiftUI Udemyコースが公開されると、コースにアクセスするための無料または割引クーポンもニュースレターメール内に届きます。
+私のSwiftUI Udemyコースが公開されると、コースの無料または割引クーポンもニュースレターメール内に届きます。
 
 # 文字
 
@@ -47,13 +47,13 @@
 | - | - | - |
 | Udemyビデオ | Udemyビデオ | Udemyビデオ |
  
-| ZStack | Grid |
-|---|---|
-| 奥行き配置（前後） | グリッド(格子) | 
-| <img width="300" alt="image" src="/Image/ZStack.png?raw=true"> | <img width="300" alt="image" src="/Image/grid-demo.jpeg?raw=true"> | 
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Grid_demo.swift){:target="_blank"} |
-| - | >= iOS 16 |
-| Udemyビデオ | Udemyビデオ |
+| ZStack | Grid | LazyVGrid |
+|---|---|---|
+| 奥行き配置（前後） | グリッド(格子) | グリッドにデータをロードする |
+| <img width="300" alt="image" src="/Image/ZStack.png?raw=true"> | <img width="300" alt="image" src="/Image/grid-demo.jpeg?raw=true"> | <img width="300" alt="image" src="/Image/LazyVStackDemo_cats.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ZStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Grid_demo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/LazyVGridDemo.swift){:target="_blank"} |
+| - | >= iOS 16 | - |
+| Udemyビデオ | Udemyビデオ | Udemyビデオ |
 
 <br>
 

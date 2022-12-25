@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Components_LibraryApp: App {
     var body: some Scene {
         WindowGroup {
-            PhotosPicker_Demo()
+            LazyVGridDemo()
         }
     }
 }
