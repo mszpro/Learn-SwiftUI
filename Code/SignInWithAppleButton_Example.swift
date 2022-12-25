@@ -28,6 +28,7 @@ struct SignInWithAppleButton_Example: View {
         }
         .frame(height: 50)
         .padding()
+        .signInWithAppleButtonStyle(.whiteOutline)
 
         
     }

@@ -33,8 +33,8 @@ struct HorizontalScrollViewDemo: View {
                             image
                                 .resizable()
                                 .scaledToFit()
-                                .cornerRadius(20)
-                                .frame(width: 150, height: 150)
+                                .cornerRadius(100)
+                                .frame(width: 120, height: 120)
                         } placeholder: {
                             ProgressView()
                         }

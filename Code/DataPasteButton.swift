@@ -42,5 +42,6 @@ struct DataPasteButton: View {
 struct DataPasteButton_Previews: PreviewProvider {
     static var previews: some View {
         DataPasteButton()
+            .preferredColorScheme(.dark)
     }
 }
