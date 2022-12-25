@@ -25,6 +25,7 @@
 		2A4BFAAC293DDE75002EA507 /* Alert_withTextField_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */; };
 		2A8AA5CE293DE4490059A4AD /* Label_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8AA5CD293DE4490059A4AD /* Label_Example.swift */; };
 		2AD9F2AB29581E4A00A6622D /* LazyVGridDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */; };
+		2AD9F2AD2958228F00A6622D /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -89,6 +90,7 @@
 		2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert_withTextField_Example.swift; sourceTree = "<group>"; };
 		2A8AA5CD293DE4490059A4AD /* Label_Example.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label_Example.swift; sourceTree = "<group>"; };
 		2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridDemo.swift; sourceTree = "<group>"; };
+		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -240,6 +242,7 @@
 				2A4BFAA0293DD448002EA507 /* Grid_demo.swift */,
 				2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */,
 				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
+				2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -383,6 +386,7 @@
 				2A8AA5CE293DE4490059A4AD /* Label_Example.swift in Sources */,
 				DAC28BD42537CC91009751EB /* Toggle_Example.swift in Sources */,
 				DAC28BD02537CC91009751EB /* NavigationLink_Example.swift in Sources */,
+				2AD9F2AD2958228F00A6622D /* GroupBoxExample.swift in Sources */,
 				DAC28BBC2537CC91009751EB /* TextField_Example.swift in Sources */,
 				DAC28BF52537D355009751EB /* PhotoPickerController_Example.swift in Sources */,
 				DAC28BC52537CC91009751EB /* SecureTextField_Example.swift in Sources */,

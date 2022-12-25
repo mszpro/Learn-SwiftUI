@@ -216,9 +216,9 @@ import Charts
 
 | DisclosureGroup | GroupBox |
 |---|---|
-| コンテンツを表示および非表示 | ? |
-| <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> | ? |
-| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} | ? |
+| コンテンツを表示および非表示 | 角丸のボックス内にタイトルとコンテンツビューを表示 |
+| <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> | <img width="300" alt="image" src="/Image/GroupBoxDemo.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/GroupBoxExample.swift){:target="_blank"} |
 | - | - |
 | Udemyビデオ | Udemyビデオ |
 
@@ -244,7 +244,7 @@ import Charts
 | <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
 | - | > iOS 16 |
-| Udemyビデオ | Udemyビデオ |
+| Udemyビデオ | Udemyビデオ [Qiita](https://qiita.com/MaShunzhe/items/0ed36d8a6de7c56b1d34#gauge---進捗状況を表示する新しいビュー) |
 
 <br>
 
