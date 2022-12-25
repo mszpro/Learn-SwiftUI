@@ -30,6 +30,7 @@
 		2AD9F2B1295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */; };
 		2AD9F2B3295827BF00A6622D /* HorizontalScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */; };
 		2AD9F2B5295827C800A6622D /* VerticleScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */; };
+		2AD9F2B729583F3700A6622D /* Gauge_ProgressDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B629583F3700A6622D /* Gauge_ProgressDisplay.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -99,6 +100,7 @@
 		2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeScanner_UIViewRepresentable.swift; sourceTree = "<group>"; };
 		2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollViewDemo.swift; sourceTree = "<group>"; };
 		2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticleScrollViewDemo.swift; sourceTree = "<group>"; };
+		2AD9F2B629583F3700A6622D /* Gauge_ProgressDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Gauge_ProgressDisplay.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -247,6 +249,7 @@
 				2A48826D28587DCD0057FBE1 /* Charts_BarChart.swift */,
 				2A48826F28587EFF0057FBE1 /* Charts_AreaMark.swift */,
 				2A4882712858805C0057FBE1 /* Charts_Multiple.swift */,
+				2AD9F2B629583F3700A6622D /* Gauge_ProgressDisplay.swift */,
 				2A4BFAA0293DD448002EA507 /* Grid_demo.swift */,
 				2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */,
 				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
@@ -382,6 +385,7 @@
 				DAC28BBE2537CC91009751EB /* FormList_Example.swift in Sources */,
 				DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */,
 				DAC28BC12537CC91009751EB /* LocalImage_Example.swift in Sources */,
+				2AD9F2B729583F3700A6622D /* Gauge_ProgressDisplay.swift in Sources */,
 				DAC28B912537CC69009751EB /* SwiftUI_Components_LibraryApp.swift in Sources */,
 				DAC28BD52537CC91009751EB /* ForEachList_Example.swift in Sources */,
 				DAC28BBD2537CC91009751EB /* ButtonAction_Example.swift in Sources */,
