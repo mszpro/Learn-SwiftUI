@@ -17,6 +17,13 @@ iOSプログラミングやSwiftUIの学習、
 
 <img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
+## Updates
+
+このページでは、
+より多くのビューモディファイアの例を更新中です。
+
+しばらくお待ちください。
+
 # 文字
 
 | Text | Text (markdown) |
