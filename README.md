@@ -186,7 +186,7 @@ iOSプログラミングやSwiftUIの学習、
 
 | Map |
 |---|
-| Map with annotations |
+| アノテーション付きマップ |
 | <img width="300" alt="image" src="/Image/Map.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Map_Example.swift){:target="_blank"} |
 | - |
