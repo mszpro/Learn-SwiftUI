@@ -1,4 +1,4 @@
-#  SwiftUI_Components-Library
+#  SwiftUIコンポーネントのまとめ
 
 これは、`SwiftUI` のビュー要素のコレクションです。
 
