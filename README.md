@@ -66,11 +66,11 @@
 | - |
 | Udemyビデオ |
 
-| Toggle | Picker | TextField |
-|---|---|---|
-| ユーザーが機能をオン/オフできるようにする | 指定したオプションから1つの値を選択 | 編集可能なテキストフィールド |
-| <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/Picker.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-|  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} |
+| Toggle | TextField |
+|---|---|
+| ユーザーが機能をオン/オフできるようにする | 編集可能なテキストフィールド |
+| <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
+|  [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_Example.swift){:target="_blank"} |
 | - | - | - |
 | Udemyビデオ | Udemyビデオ | Udemyビデオ |
 
@@ -79,8 +79,8 @@
 | 複数行のテキストフィールド | パスワード入力用 | 長い文字列を表示して編集 |
 | <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
-| >= iOS 16 | - | - |
-| Udemyビデオ | Udemyビデオ | Udemyビデオ |
+| >= iOS 16 | - |
+| Udemyビデオ | Udemyビデオ |
 
 
 | Stepper | Slider |
@@ -94,6 +94,14 @@
 <br>
 
 # ピッカー / 選択
+
+| Picker |
+|---|
+| 指定したオプションから1つの値を選択 |
+| <img width="300" alt="image" src="/Image/Picker.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true">  |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Picker_Example.swift){:target="_blank"} |
+| - |
+| - |
 
 | ColorPicker | DatePicker | MultiDatePicker |
 |---|---|---|
