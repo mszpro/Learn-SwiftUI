@@ -26,6 +26,7 @@
 		2A8AA5CE293DE4490059A4AD /* Label_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8AA5CD293DE4490059A4AD /* Label_Example.swift */; };
 		2AD9F2AB29581E4A00A6622D /* LazyVGridDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */; };
 		2AD9F2AD2958228F00A6622D /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */; };
+		2AD9F2AF295823C500A6622D /* DataPasteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AE295823C500A6622D /* DataPasteButton.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -91,6 +92,7 @@
 		2A8AA5CD293DE4490059A4AD /* Label_Example.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label_Example.swift; sourceTree = "<group>"; };
 		2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridDemo.swift; sourceTree = "<group>"; };
 		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
+		2AD9F2AE295823C500A6622D /* DataPasteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPasteButton.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -243,6 +245,7 @@
 				2A4BFAA2293DD582002EA507 /* PhotosPicker_Demo.swift */,
 				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
 				2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */,
+				2AD9F2AE295823C500A6622D /* DataPasteButton.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -372,6 +375,7 @@
 				DAC28BD52537CC91009751EB /* ForEachList_Example.swift in Sources */,
 				DAC28BBD2537CC91009751EB /* ButtonAction_Example.swift in Sources */,
 				2A4BFA9B293DC89B002EA507 /* Text_Markdown_Example.swift in Sources */,
+				2AD9F2AF295823C500A6622D /* DataPasteButton.swift in Sources */,
 				2A4882722858805C0057FBE1 /* Charts_Multiple.swift in Sources */,
 				2A48826A285879F70057FBE1 /* Charts_Single.swift in Sources */,
 				DAC28BC32537CC91009751EB /* DisclosureGroup_Example.swift in Sources */,
