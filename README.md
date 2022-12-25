@@ -2,6 +2,8 @@
 
 これは、`SwiftUI` のビュー要素のコレクションです。
 
+URL: https://SwiftUI.MszPro.com
+
 ## @MszPro
 
 個人アプリ開発の最新情報、
