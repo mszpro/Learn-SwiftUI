@@ -19,7 +19,7 @@
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} |
 | - | - |
-| Udemyビデオ | Udemyビデオ |
+| Udemyビデオ | Udemyビデオ [Qiita記事](https://qiita.com/MaShunzhe/items/3e52a9e11f9fd4f5cf64) |
 
 <br>
 
