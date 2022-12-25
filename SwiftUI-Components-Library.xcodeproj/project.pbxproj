@@ -28,6 +28,8 @@
 		2AD9F2AD2958228F00A6622D /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */; };
 		2AD9F2AF295823C500A6622D /* DataPasteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AE295823C500A6622D /* DataPasteButton.swift */; };
 		2AD9F2B1295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */; };
+		2AD9F2B3295827BF00A6622D /* HorizontalScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */; };
+		2AD9F2B5295827C800A6622D /* VerticleScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -95,6 +97,8 @@
 		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 		2AD9F2AE295823C500A6622D /* DataPasteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPasteButton.swift; sourceTree = "<group>"; };
 		2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeScanner_UIViewRepresentable.swift; sourceTree = "<group>"; };
+		2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollViewDemo.swift; sourceTree = "<group>"; };
+		2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticleScrollViewDemo.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -249,6 +253,8 @@
 				2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */,
 				2AD9F2AE295823C500A6622D /* DataPasteButton.swift */,
 				2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */,
+				2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */,
+				2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -353,6 +359,7 @@
 				2AD9F2B1295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift in Sources */,
 				2AD9F2AB29581E4A00A6622D /* LazyVGridDemo.swift in Sources */,
 				DAC28BCB2537CC91009751EB /* SafariView_Example.swift in Sources */,
+				2AD9F2B5295827C800A6622D /* VerticleScrollViewDemo.swift in Sources */,
 				DAC28BC82537CC91009751EB /* ButtonItemSheet_Example.swift in Sources */,
 				DAFE9CBB2538992B0036FB2B /* LoginForm_Example.swift in Sources */,
 				DAC28BCF2537CC91009751EB /* Alert_Example.swift in Sources */,
@@ -389,6 +396,7 @@
 				DAC28BC42537CC91009751EB /* Picker_Example.swift in Sources */,
 				2A4BFAA3293DD582002EA507 /* PhotosPicker_Demo.swift in Sources */,
 				DAC28BC72537CC91009751EB /* ProgressView_Example.swift in Sources */,
+				2AD9F2B3295827BF00A6622D /* HorizontalScrollViewDemo.swift in Sources */,
 				DAC28BC62537CC91009751EB /* TextEditor_Example.swift in Sources */,
 				DAC28BCE2537CC91009751EB /* ColorPicker_Example.swift in Sources */,
 				2A8AA5CE293DE4490059A4AD /* Label_Example.swift in Sources */,

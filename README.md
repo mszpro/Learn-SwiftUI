@@ -2,14 +2,20 @@
 
 これは、`SwiftUI` のビュー要素のコレクションです。
 
-## iOS Dev Letter
+## @MszPro
 
-私のiOS開発者レターを購読して、
-私の記事、Swift、SwiftUIに関するプログラミングのヒント、
-その他の最新情報を入手しましょう。
-最大で月に1通のメールが届く予定です。
+個人的なアプリ開発の最新情報、
+iOSプログラミングやSwiftUIの学習、
+美しい写真やアニメの絵などを楽しむために、
+ぜひフォローをお願いします。
 
-私のSwiftUI Udemyコースが公開されると、コースの無料または割引クーポンもニュースレターメール内に届きます。
+[🐘 マストドン @me@mszpro.com](https://sns.mszpro.com/@me)
+
+[☺️ Twitter @MszPro](https://twitter.com/MszPro)
+
+[☺️ サイト] <https://MszPro.com>
+
+<img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
 # 文字
 
@@ -219,6 +225,14 @@ import Charts
 | コンテンツを表示および非表示 | 角丸のボックス内にタイトルとコンテンツビューを表示 |
 | <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> | <img width="300" alt="image" src="/Image/GroupBoxDemo.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/GroupBoxExample.swift){:target="_blank"} |
+| - | - |
+| - | - |
+
+| ScrollView(.horizontal) | ScrollView(.verticle) |
+|---|---|
+| 水平方向にスクロールできるようにする | 縦方向にスクロールできるようにする |
+| <img width="300" alt="image" src="/Image/horizontal-scrollview.png?raw=true"> | <img width="300" alt="image" src="/Image/verticle-scrollview.png?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/HorizontalScrollViewDemo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/VerticleScrollViewDemo.swift){:target="_blank"} |
 | - | - |
 | - | - |
 
