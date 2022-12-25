@@ -336,7 +336,14 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 
 ## UIViewRepresentable
 
+SwiftUIでUIKitの UIView を互換性のあるものにするために、
+UIViewRepresentableを使用することにします。
 
+| QRCodeScanner |
+|---|
+| SwiftUIのビューでQRコードを読み取る |
+| <img width="300" alt="image" src="/Image/qr-scanner-swiftui.jpg?raw=true"> |
+| [コード例を見る](https://github.com/mszpro/SwiftUI-Components-Library/blob/main/Code/Competible/QRCodeScanner_UIViewRepresentable.swift){:target="_blank"} |
 
 <br>
 

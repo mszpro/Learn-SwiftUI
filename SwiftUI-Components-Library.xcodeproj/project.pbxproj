@@ -27,6 +27,7 @@
 		2AD9F2AB29581E4A00A6622D /* LazyVGridDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */; };
 		2AD9F2AD2958228F00A6622D /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */; };
 		2AD9F2AF295823C500A6622D /* DataPasteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2AE295823C500A6622D /* DataPasteButton.swift */; };
+		2AD9F2B1295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */; };
 		DA0F1736253A5816008C5E7C /* DatePicker_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */; };
 		DA0F1739253A5971008C5E7C /* SignInWithAppleButton_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */; };
 		DA6211EC259930BF00DAC95E /* Stepper_Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6211EB259930BF00DAC95E /* Stepper_Example.swift */; };
@@ -93,6 +94,7 @@
 		2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridDemo.swift; sourceTree = "<group>"; };
 		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 		2AD9F2AE295823C500A6622D /* DataPasteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPasteButton.swift; sourceTree = "<group>"; };
+		2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeScanner_UIViewRepresentable.swift; sourceTree = "<group>"; };
 		DA0F1735253A5816008C5E7C /* DatePicker_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker_Example.swift; sourceTree = "<group>"; };
 		DA0F1738253A5971008C5E7C /* SignInWithAppleButton_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInWithAppleButton_Example.swift; sourceTree = "<group>"; };
 		DA6211EB259930BF00DAC95E /* Stepper_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stepper_Example.swift; sourceTree = "<group>"; };
@@ -246,6 +248,7 @@
 				2A4BFAA4293DD9F7002EA507 /* ShareSheet_Demo.swift */,
 				2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */,
 				2AD9F2AE295823C500A6622D /* DataPasteButton.swift */,
+				2AD9F2B0295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -347,6 +350,7 @@
 				2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */,
 				2A48826E28587DCD0057FBE1 /* Charts_BarChart.swift in Sources */,
 				DAC28BC02537CC91009751EB /* ActionSheet_Example.swift in Sources */,
+				2AD9F2B1295825B700A6622D /* QRCodeScanner_UIViewRepresentable.swift in Sources */,
 				2AD9F2AB29581E4A00A6622D /* LazyVGridDemo.swift in Sources */,
 				DAC28BCB2537CC91009751EB /* SafariView_Example.swift in Sources */,
 				DAC28BC82537CC91009751EB /* ButtonItemSheet_Example.swift in Sources */,
