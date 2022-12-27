@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A32FCF3295A8261002C9A73 /* Text.md in Resources */ = {isa = PBXBuildFile; fileRef = 2A32FCF2295A8261002C9A73 /* Text.md */; };
+		2A32FCFA295A9659002C9A73 /* AsyncImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A32FCF9295A9659002C9A73 /* AsyncImageDemo.swift */; };
 		2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488265285877A30057FBE1 /* MultipleDatePicker.swift */; };
 		2A48826A285879F70057FBE1 /* Charts_Single.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488269285879F70057FBE1 /* Charts_Single.swift */; };
 		2A48826C28587C1C0057FBE1 /* Charts_PointLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */; };
@@ -84,6 +85,7 @@
 		2A32FCF6295A85E3002C9A73 /* Image.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Image.md; sourceTree = "<group>"; };
 		2A32FCF7295A947A002C9A73 /* AsyncImage.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = AsyncImage.md; sourceTree = "<group>"; };
 		2A32FCF8295A9493002C9A73 /* SFSymbolImage.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SFSymbolImage.md; sourceTree = "<group>"; };
+		2A32FCF9295A9659002C9A73 /* AsyncImageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageDemo.swift; sourceTree = "<group>"; };
 		2A488265285877A30057FBE1 /* MultipleDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
 		2A488269285879F70057FBE1 /* Charts_Single.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Single.swift; sourceTree = "<group>"; };
 		2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_PointLine.swift; sourceTree = "<group>"; };
@@ -278,6 +280,7 @@
 				2AD9F2AE295823C500A6622D /* DataPasteButton.swift */,
 				2AD9F2B2295827BF00A6622D /* HorizontalScrollViewDemo.swift */,
 				2AD9F2B4295827C800A6622D /* VerticleScrollViewDemo.swift */,
+				2A32FCF9295A9659002C9A73 /* AsyncImageDemo.swift */,
 			);
 			path = Code;
 			sourceTree = SOURCE_ROOT;
@@ -377,6 +380,7 @@
 				DAC28BD12537CC91009751EB /* AlertItems_Example.swift in Sources */,
 				DAC28BD32537CC91009751EB /* Text_Example.swift in Sources */,
 				DAC28BE52537D001009751EB /* MessageCompose_Example.swift in Sources */,
+				2A32FCFA295A9659002C9A73 /* AsyncImageDemo.swift in Sources */,
 				2A48826C28587C1C0057FBE1 /* Charts_PointLine.swift in Sources */,
 				2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */,
 				2A48826E28587DCD0057FBE1 /* Charts_BarChart.swift in Sources */,

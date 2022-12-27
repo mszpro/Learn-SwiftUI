@@ -41,11 +41,11 @@ Latest update: 2022-12-27 (Tuesday)
 
 # 画像
 
-| [Image (ローカル)](/Documents/Image) | [Image (SF Symbol)](/Documents/SFSymbolImage) |
-|---|---|
-| 画像を表示 | SFシステム画像を表示 |
-| <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> |
-| [コード例を見る](/Documents/Image){:target="_blank"} | [コード例を見る](/Documents/SFSymbolImage){:target="_blank"} |
+| [Image (ローカル)](/Documents/Image) | [Image (SF Symbol)](/Documents/SFSymbolImage) | [AsyncImage](/Documents/AsyncImage) |
+|---|---|---|
+| 画像を表示 | SFシステム画像を表示 | インターネットから画像を読み込む |
+| <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> | <img width="300" alt="image" src="/Image/AsyncImage_demo.png?raw=true"> |
+| [コード例を見る](/Documents/Image){:target="_blank"} | [コード例を見る](/Documents/SFSymbolImage){:target="_blank"} | [コード例を見る](/Documents/AsyncImage){:target="_blank"} |
 
 <br>
 
