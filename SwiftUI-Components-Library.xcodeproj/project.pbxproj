@@ -81,6 +81,7 @@
 		2A32FCF2295A8261002C9A73 /* Text.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Text.md; sourceTree = "<group>"; };
 		2A32FCF4295A834E002C9A73 /* Text_Markdown.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Text_Markdown.md; sourceTree = "<group>"; };
 		2A32FCF5295A8357002C9A73 /* _Template.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = _Template.md; sourceTree = "<group>"; };
+		2A32FCF6295A85E3002C9A73 /* Image.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Image.md; sourceTree = "<group>"; };
 		2A488265285877A30057FBE1 /* MultipleDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
 		2A488269285879F70057FBE1 /* Charts_Single.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Single.swift; sourceTree = "<group>"; };
 		2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_PointLine.swift; sourceTree = "<group>"; };
@@ -170,6 +171,7 @@
 				2A32FCF5295A8357002C9A73 /* _Template.md */,
 				2A32FCF2295A8261002C9A73 /* Text.md */,
 				2A32FCF4295A834E002C9A73 /* Text_Markdown.md */,
+				2A32FCF6295A85E3002C9A73 /* Image.md */,
 			);
 			path = Documents;
 			sourceTree = SOURCE_ROOT;
