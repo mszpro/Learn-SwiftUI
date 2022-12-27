@@ -1,5 +1,7 @@
 #  Text
 
+[メニューに戻る](/)
+
 画面上にテキストを表示する。テキストは複数行にすることができます。
 
 <img width="300" alt="image" src="/Image/Text.png?raw=true">
@@ -35,3 +37,5 @@ struct Text_Example_Previews: PreviewProvider {
 | .onAppear | 画面にビューが表示されたときに実行するコード |
 | .onDisappear | ビューが画面から消えるときに実行するコード |
 | .onTapGesture | ユーザーがビューをタップしたときにアクションを実行する |
+
+[メニューに戻る](/)
