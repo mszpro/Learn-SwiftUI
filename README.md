@@ -28,13 +28,11 @@ iOSプログラミングやSwiftUIに関する記事、
 
 # 文字
 
-| Text | Text (markdown) |
+| [Text](/Documents/Text) | Text (markdown) |
 |---|---|
-| 1つの文字列を表示 | マークダウンでテキストを表示する |
+| 文字を表示 | マークダウンでテキストを表示する |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Text_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} |
-| - | - |
-| - | - [Qiita記事](https://qiita.com/MaShunzhe/items/3e52a9e11f9fd4f5cf64) |
+| [コード例を見る](/Documents/Text){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} |
 
 <br>
 
@@ -291,31 +289,6 @@ Qiita記事
 | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DataPasteButton.swift){:target="_blank"} |
 | >= iOS 16 |
 | - |
- 
-<br>
- 
-# ViewModifier ビューモディファイア
- 
- ビューモディファイアを使ってビューの外観を変更することができます。
- 
- 例：
- 
- ```swift
- Image(systemName: "wand.and.stars")
-     .font(.largeTitle)
-     .foregroundColor(.blue)
- ```
- 
-以下は一般的なビューモディファイアのリストです：
- 
-| 変数名 | 使用法 |
-|---|---|
-| .font | 文字とSFシンボル (SF Symbol) 画像のフォントサイズを変更 |
-| .frame | 表示されるオブジェクトのサイズを変更 |
-| .padding() | オブジェクトの周囲にスペースを追加 |
-| .foregroundColor(.blue) | オブジェクトの色を変更 |
-| .onAppear | 画面にビューが表示されたときに実行するアクション |
-| .onTapGesture | ユーザーがビューをタップしたときにアクションを実行する |
  
 <br>
  
