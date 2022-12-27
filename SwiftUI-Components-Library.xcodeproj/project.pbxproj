@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A32FCF3295A8261002C9A73 /* Text.md in Resources */ = {isa = PBXBuildFile; fileRef = 2A32FCF2295A8261002C9A73 /* Text.md */; };
 		2A488266285877A30057FBE1 /* MultipleDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488265285877A30057FBE1 /* MultipleDatePicker.swift */; };
 		2A48826A285879F70057FBE1 /* Charts_Single.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A488269285879F70057FBE1 /* Charts_Single.swift */; };
 		2A48826C28587C1C0057FBE1 /* Charts_PointLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */; };
@@ -77,7 +78,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A32FCF0295A80ED002C9A73 /* Text.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Text.md; sourceTree = "<group>"; };
+		2A32FCF2295A8261002C9A73 /* Text.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Text.md; sourceTree = "<group>"; };
 		2A488265285877A30057FBE1 /* MultipleDatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleDatePicker.swift; sourceTree = "<group>"; };
 		2A488269285879F70057FBE1 /* Charts_Single.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_Single.swift; sourceTree = "<group>"; };
 		2A48826B28587C1C0057FBE1 /* Charts_PointLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Charts_PointLine.swift; sourceTree = "<group>"; };
@@ -161,13 +162,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2A32FCEF295A80DE002C9A73 /* Documents */ = {
+		2A32FCF1295A8261002C9A73 /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				2A32FCF0295A80ED002C9A73 /* Text.md */,
+				2A32FCF2295A8261002C9A73 /* Text.md */,
 			);
 			path = Documents;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		DAC28B842537CC69009751EB = {
 			isa = PBXGroup;
@@ -190,7 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				DAC28BDC2537CE3D009751EB /* README.md */,
-				2A32FCEF295A80DE002C9A73 /* Documents */,
+				2A32FCF1295A8261002C9A73 /* Documents */,
 				DAC28B902537CC69009751EB /* SwiftUI_Components_LibraryApp.swift */,
 				DAC28BA02537CC91009751EB /* Code */,
 				DAC28B942537CC69009751EB /* Assets.xcassets */,
@@ -350,6 +351,7 @@
 			files = (
 				DAC28BF22537D2BE009751EB /* Example_Com_PDF.pdf in Resources */,
 				DAC28B982537CC69009751EB /* Preview Assets.xcassets in Resources */,
+				2A32FCF3295A8261002C9A73 /* Text.md in Resources */,
 				2A4BFAAA293DDCF6002EA507 /* LICENSE in Resources */,
 				DAC28B952537CC69009751EB /* Assets.xcassets in Resources */,
 			);
