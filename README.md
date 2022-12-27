@@ -21,18 +21,21 @@ iOSプログラミングやSwiftUIに関する記事、
 
 ## Updates
 
+Latest update: 2022-12-27 (Tuesday)
+
 ⚡️このページでは、
 より多くのビューモディファイアの例を更新中です。
+キャッシュの関係で、手動で再読み込みボタンをクリックして、最新版を読み込んでください。
 
 ☺️しばらくお待ちください。
 
 # 文字
 
-| [Text](/Documents/Text) | Text (markdown) |
+| [Text](/Documents/Text) | [Text (markdown)](/Documents/Text_Markdown) |
 |---|---|
 | 文字を表示 | マークダウンでテキストを表示する |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
-| [コード例を見る](/Documents/Text){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Text_Markdown_Example.swift){:target="_blank"} |
+| [コード例を見る](/Documents/Text){:target="_blank"} | [コード例を見る](/Documents/Text_Markdown){:target="_blank"} |
 
 <br>
 
