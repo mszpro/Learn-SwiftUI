@@ -23,6 +23,12 @@ struct Text_Example_Previews: PreviewProvider {
 }
 ```
 
+## 複数のTextオブジェクトを結合する
+
+```swift
+Text("Hello, ").bold() + Text(" World!!")
+```
+
 ## View modifiers
  
 | 変数名 | 使用法 |
