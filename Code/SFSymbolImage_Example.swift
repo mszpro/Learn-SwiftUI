@@ -12,7 +12,7 @@ struct SFSymbolImage_Example: View {
     var body: some View {
         
         Image(systemName: "wand.and.stars")
-            .font(.largeTitle)
+            .font(.system(size: 60))
             .foregroundColor(.blue)
         
     }
