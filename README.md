@@ -61,11 +61,11 @@ Latest update: 2022-12-27 (Tuesday)
  
 <br>
 
-| [ZStack](/Documents/ZStack) | [Grid](/Documents/Grid) | LazyVGrid |
+| [ZStack](/Documents/ZStack) | [Grid](/Documents/Grid) | [LazyVGrid](/Documents/LazyVGrid) |
 |---|---|---|
 | 奥行き配置（前後） | グリッド(格子) | グリッドにデータをロードする |
 | <img width="300" alt="image" src="/Image/ZStack.png?raw=true"> | <img width="300" alt="image" src="/Image/grid-demo.jpeg?raw=true"> | <img width="300" alt="image" src="/Image/LazyVStackDemo_cats.png?raw=true"> |
-| [コード例を見る](/Documents/ZStack) | [コード例を見る](/Documents/Grid) >=iOS16 | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LazyVGridDemo.swift) |
+| [コード例を見る](/Documents/ZStack) | [コード例を見る](/Documents/Grid) >=iOS16 | [コード例を見る](/Documents/LazyVGrid) |
 
 <br>
 

@@ -107,6 +107,7 @@
 		2A6CFF20295C26D4002EB52D /* Form.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Form.md; sourceTree = "<group>"; };
 		2A6CFF21295C296B002EB52D /* ZStack.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ZStack.md; sourceTree = "<group>"; };
 		2A6CFF22295C29BE002EB52D /* Grid.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Grid.md; sourceTree = "<group>"; };
+		2A6CFF23295C2C6A002EB52D /* LazyVGrid.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LazyVGrid.md; sourceTree = "<group>"; };
 		2A8AA5CD293DE4490059A4AD /* Label_Example.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label_Example.swift; sourceTree = "<group>"; };
 		2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridDemo.swift; sourceTree = "<group>"; };
 		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
@@ -188,6 +189,7 @@
 				2A6CFF20295C26D4002EB52D /* Form.md */,
 				2A6CFF21295C296B002EB52D /* ZStack.md */,
 				2A6CFF22295C29BE002EB52D /* Grid.md */,
+				2A6CFF23295C2C6A002EB52D /* LazyVGrid.md */,
 			);
 			path = Documents;
 			sourceTree = SOURCE_ROOT;
