@@ -102,6 +102,7 @@
 		2A4BFAA6293DDB0C002EA507 /* Slider_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider_Example.swift; sourceTree = "<group>"; };
 		2A4BFAA9293DDCF6002EA507 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2A4BFAAB293DDE75002EA507 /* Alert_withTextField_Example.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert_withTextField_Example.swift; sourceTree = "<group>"; };
+		2A6CFF1E295C2296002EB52D /* HStack.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = HStack.md; sourceTree = "<group>"; };
 		2A8AA5CD293DE4490059A4AD /* Label_Example.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Label_Example.swift; sourceTree = "<group>"; };
 		2AD9F2AA29581E4A00A6622D /* LazyVGridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridDemo.swift; sourceTree = "<group>"; };
 		2AD9F2AC2958228F00A6622D /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
@@ -178,6 +179,7 @@
 				2A32FCF6295A85E3002C9A73 /* Image.md */,
 				2A32FCF8295A9493002C9A73 /* SFSymbolImage.md */,
 				2A32FCF7295A947A002C9A73 /* AsyncImage.md */,
+				2A6CFF1E295C2296002EB52D /* HStack.md */,
 			);
 			path = Documents;
 			sourceTree = SOURCE_ROOT;
