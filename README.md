@@ -35,7 +35,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|
 | 文字を表示 | マークダウンでテキストを表示する |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
-| [コード例を見る](/Documents/Text){:target="_blank"} | [コード例を見る](/Documents/Text_Markdown){:target="_blank"} |
+| [コード例を見る](/Documents/Text) | [コード例を見る](/Documents/Text_Markdown) |
 
 <br>
 
@@ -45,7 +45,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|---|
 | 画像を表示 | SFシステム画像を表示 | インターネットから画像を読み込む |
 | <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> | <img width="300" alt="image" src="/Image/AsyncImage_demo.png?raw=true"> |
-| [コード例を見る](/Documents/Image){:target="_blank"} | [コード例を見る](/Documents/SFSymbolImage){:target="_blank"} | [コード例を見る](/Documents/AsyncImage){:target="_blank"} |
+| [コード例を見る](/Documents/Image) | [コード例を見る](/Documents/SFSymbolImage) | [コード例を見る](/Documents/AsyncImage) |
 
 <br>
 
@@ -53,19 +53,17 @@ Latest update: 2022-12-27 (Tuesday)
 
 上記ビューの複数を1つのビューに組み合わせて表示できます。
 
-| [HStack](/Documents/HStack) | VStack | Form |
+| [HStack](/Documents/HStack) | [VStack](/Documents/VStack) | Form |
 |---|---|---|
 | 水平配置 | 垂直配置 | ログインフォームの例 |
 | <img width="300" alt="image" src="/Image/HStack.png?raw=true"> | <img width="300" alt="image" src="/Image/VStack.png?raw=true"> | <img width="300" alt="image" src="/Image/LoginForm.png?raw=true"> |
-| [コード例を見る](/Documents/HStack){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/VStack_Example.swift){:target="_blank"}  | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LoginForm_Example.swift){:target="_blank"} |
-| - | - | - |
-| - | - | - |
+| [コード例を見る](/Documents/HStack) | [コード例を見る](/Documents/VStack)  | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LoginForm_Example.swift) |
  
 | ZStack | Grid | LazyVGrid |
 |---|---|---|
 | 奥行き配置（前後） | グリッド(格子) | グリッドにデータをロードする |
 | <img width="300" alt="image" src="/Image/ZStack.png?raw=true"> | <img width="300" alt="image" src="/Image/grid-demo.jpeg?raw=true"> | <img width="300" alt="image" src="/Image/LazyVStackDemo_cats.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ZStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Grid_demo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LazyVGridDemo.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ZStack_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Grid_demo.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LazyVGridDemo.swift) |
 | - | >= iOS 16 | - |
 | - | - | - |
 
@@ -76,7 +74,7 @@ Latest update: 2022-12-27 (Tuesday)
 | Form |
 |---|
 | <img width="300" alt="image" src="/Image/FormList.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/FormList_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/FormList_Example.swift) |
 | - |
 | - |
 
@@ -84,7 +82,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|
 | ユーザーが機能をオン/オフできるようにする | 編集可能なテキストフィールド |
 | <img width="300" alt="image" src="/Image/Toggle.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-|  [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Toggle_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextField_Example.swift){:target="_blank"} |
+|  [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Toggle_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextField_Example.swift) |
 | - | - | - |
 | - | - | - |
 
@@ -92,7 +90,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|---|
 | 複数行のテキストフィールド | パスワード入力用 | 長い文字列を表示して編集 |
 | <img width="300" alt="image" src="/Image/multi-line-textfield-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/SecureField.png?raw=true"> | <img width="300" alt="image" src="/Image/TextEditor.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextField_MultiLine_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/SecureTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextEditor_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextField_MultiLine_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/SecureTextField_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TextEditor_Example.swift) |
 | >= iOS 16 | - |
 | - | - |
 
@@ -101,7 +99,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|
 | 値を増減 | 値を増減 |
 | <img width="300" alt="image" src="/Image/Stepper.png?raw=true"> | <img width="300" alt="image" src="/Image/Slider-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Stepper_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Slider_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Stepper_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Slider_Example.swift) |
 | - | - |
 | - | - |
 
@@ -113,7 +111,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|
 | 指定したオプションから1つの値を選択 |
 | <img width="300" alt="image" src="/Image/Picker.png?raw=true"> | <img width="300" alt="image" src="/Image/TextField.png?raw=true">  |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Picker_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Picker_Example.swift) |
 | - |
 | - |
 
@@ -121,7 +119,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|---|
 | 色を選択できるようにします。 | 日付を選択します | 複数日付選択ツール |
 | <img width="300" alt="image" src="/Image/ColorPicker.png?raw=true"> | <img width="300" alt="image" src="/Image/DatePicker.png?raw=true"> | <img width="300" alt="image" src="/Image/multi_date_picker.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ColorPicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DatePicker_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/MultipleDatePicker.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ColorPicker_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DatePicker_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/MultipleDatePicker.swift) |
 | - | - | > iOS 16 |
 | - | - | - |
 
@@ -132,7 +130,7 @@ Latest update: 2022-12-27 (Tuesday)
 | List | ForEach |
 |---|---|
 | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/List_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ForEachList_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/List_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ForEachList_Example.swift) |
 | - | - |
 | - | - |
 
@@ -144,7 +142,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|
 | ナビゲーションを追加する | サイドバーメニューを含むナビゲーションを追加する |
 | <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationSplitView-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationStack_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationSplitView_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationStack_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationSplitView_Example.swift) |
 | >= iOS 16 | >= iOS 16 |
 |  - |  - |
 
@@ -152,7 +150,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|
 | バーにアイテムを表示します |
 | <img width="300" alt="image" src="/Image/BarItem.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ToolBar_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ToolBar_Example.swift) |
 |  - |
 |  - |
 
@@ -160,7 +158,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|
 | ナビゲーションビュー内に自前のViewを埋め込み | 
 | <img width="300" alt="image" src="/Image/NavigationView.png?raw=true"> | 
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationView_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationView_Example.swift) |
 | DEPRECATED 廃止された < iOS 16 |
 | - |
 
@@ -172,7 +170,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|---|
 | クリックしてアクションを実行 | クリックして別のビューに移動 | ビューシートを表示 |
 | <img width="300" alt="image" src="/Image/Button.png?raw=true"> | <img width="300" alt="image" src="/Image/NavigationLink.png?raw=true"> | <img width="300" alt="image" src="/Image/PresentedSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonAction_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationLink_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonSheet_Example.swift){:target="_blank"}  [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonItemSheet_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonAction_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/NavigationLink_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonSheet_Example.swift)  [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ButtonItemSheet_Example.swift) |
 | - | - | - |
 | - | - | - |
  
@@ -184,7 +182,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|
 | 画面の最下部にタブバーを表示 |
 | <img width="300" alt="image" src="/Image/TabBar.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TabView_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/TabView_Example.swift) |
 | - |
  | - |
  
@@ -196,7 +194,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|
 | アノテーション付きマップ |
 | <img width="300" alt="image" src="/Image/Map.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Map_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Map_Example.swift) |
 | - |
 | - |
 
@@ -215,7 +213,7 @@ Qiita記事
 |---|---|---|
 | ポイント チャート | 折れ線グラフ | 棒グラフ |
 | <img width="300" alt="image" src="/Image/point_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/line_chart_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/bar_chart_demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_Single.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_PointLine.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_BarChart.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_Single.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_PointLine.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_BarChart.swift) |
 | >= iOS 16 | >= iOS 16 | >= iOS 16 |
 | - | - | - |
 
@@ -223,7 +221,7 @@ Qiita記事
 |---|---|
 | 面グラフ | 1つのグラフの中に複数のデータを表示することができます。例えば、2ヶ所の天気を比較することができます。 |
 | <img width="300" alt="image" src="/Image/area_mark_demo.png?raw=true"> | <img width="300" alt="image" src="/Image/charts_multiple_datasets_demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_AreaMark.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_Multiple.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_AreaMark.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Charts_Multiple.swift) |
 | >= iOS 16 | >= iOS 16 |
 | - | - |
 
@@ -235,7 +233,7 @@ Qiita記事
 |---|---|
 | コンテンツを表示および非表示 | 角丸のボックス内にタイトルとコンテンツビューを表示 |
 | <img width="300" alt="image" src="/Image/DisclosureGroup.png?raw=true"> | <img width="300" alt="image" src="/Image/GroupBoxDemo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DisclosureGroup_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/GroupBoxExample.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DisclosureGroup_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/GroupBoxExample.swift) |
 | - | - |
 | - | - |
 
@@ -243,7 +241,7 @@ Qiita記事
 |---|---|
 | 水平方向にスクロールできるようにする | 縦方向にスクロールできるようにする |
 | <img width="300" alt="image" src="/Image/horizontal-scrollview.png?raw=true"> | <img width="300" alt="image" src="/Image/verticle-scrollview.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/HorizontalScrollViewDemo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/VerticleScrollViewDemo.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/HorizontalScrollViewDemo.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/VerticleScrollViewDemo.swift) |
 | - | - |
 | - | - |
 
@@ -255,7 +253,7 @@ Qiita記事
 |---|---|---|
 | アラートウィンドウを表示 | 入力用のテキストフィールドを持つアラートを表示 | アクションシートを画面の最下部に表示 |
 | <img width="300" alt="image" src="/Image/Alert.png?raw=true"> | <img width="300" alt="image" src="/Image/alert-with-textfield-demo.jpeg?raw=true"> | <img width="300" alt="image" src="/Image/ActionSheet.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Alert_Example.swift){:target="_blank"} [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/AlertItems_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Alert_withTextField_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ActionSheet_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Alert_Example.swift) [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/AlertItems_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Alert_withTextField_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ActionSheet_Example.swift) |
 | - | >= iOS 16 | - |
 | - | - | - |
 
@@ -267,7 +265,7 @@ Qiita記事
 |---|---|
 | 進捗状況を表示 | 円形スタイル、または直線スタイルで進捗状況を表示 |
 | <img width="300" alt="image" src="/Image/ProgressView.png?raw=true"> | <img width="300" alt="image" src="/Image/gauge_with_color.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ProgressView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Gauge_ProgressDisplay.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ProgressView_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Gauge_ProgressDisplay.swift) |
 | - | > iOS 16 |
 | - | - [Qiita](https://qiita.com/MaShunzhe/items/0ed36d8a6de7c56b1d34#gauge---進捗状況を表示する新しいビュー) |
 
@@ -279,7 +277,7 @@ Qiita記事
 |---|---|---|
 | Appleでサインイン | 写真選択ツール | 共有シート |
 | <img width="300" alt="image" src="/Image/SignInWithApple.png?raw=true"> | <img width="300" alt="image" src="/Image/photo-picker-demo.png?raw=true"> | <img width="300" alt="image" src="/Image/share-sheet-demo.png?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/SignInWithAppleButton_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/PhotosPicker_Demo.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ShareSheet_Demo.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/SignInWithAppleButton_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/PhotosPicker_Demo.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ShareSheet_Demo.swift) |
 | - | >= iOS 16 | >= iOS 16 |
 | - | - | - |
 
@@ -287,7 +285,7 @@ Qiita記事
 |---|
 | ペーストボードからデータ（画像など）を読み込む |
 | <img width="300" alt="image" src="/Image/PasteButtonDemo.jpeg?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DataPasteButton.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/DataPasteButton.swift) |
 | >= iOS 16 |
 | - |
  
@@ -317,7 +315,7 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 |---|---|---|
 | ファイル内容をプレビュー | フォトピッカー | メールコンポーザー |
 | <img width="300" alt="image" src="/Image/PreviewController.png?raw=true"> | <img width="300" alt="image" src="/Image/PhotoPicker.png?raw=true"> | |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/PreviewController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/PhotoPickerController_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/EmailCompose_Example.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/PreviewController_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/PhotoPickerController_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/EmailCompose_Example.swift) |
 
 <br/><br/>
 
@@ -326,7 +324,7 @@ SwiftUI は新しいフレームワークであるので、フィーチャー UI
 | テキストメッセージコンポーザー | ウェブ表示 | ドキュメントピッカー |
 | | <img width="300" alt="image" src="/Image/SafariView.png?raw=true"> | <img width="300" alt="image" src="/Image/FileBrowser.png?raw=true"> |
 |
- [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/MessageCompose_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/SafariView_Example.swift){:target="_blank"} | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/FileBrowser_Example.swift){:target="_blank"} |
+ [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/MessageCompose_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/SafariView_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/FileBrowser_Example.swift) |
 
 ## UIViewRepresentable
 
@@ -337,7 +335,7 @@ UIViewRepresentableを使用することにします。
 |---|
 | SwiftUIのビューでQRコードを読み取る |
 | <img width="300" alt="image" src="/Image/qr-scanner-swiftui.jpg?raw=true"> |
-| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/QRCodeScanner_UIViewRepresentable.swift){:target="_blank"} |
+| [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/Competible/QRCodeScanner_UIViewRepresentable.swift) |
 
 <br>
 

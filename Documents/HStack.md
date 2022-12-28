@@ -40,7 +40,7 @@ struct HStack_Example_Previews: PreviewProvider {
 
 HStack(alignment: .leading)
 
-`alignment`: HStack内の要素を左側（.leading）、中央（.center）、右側（.trailing）のいずれに配置するかを制御する。
+`alignment`: HStack内の要素を上側（.top）、中央（.center）、下側（.bottom）のいずれに配置するかを制御します。
 
 ## View modifiers
 
