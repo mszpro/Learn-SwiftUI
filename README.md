@@ -53,11 +53,11 @@ Latest update: 2022-12-27 (Tuesday)
 
 上記ビューの複数を1つのビューに組み合わせて表示できます。
 
-| [HStack](/Documents/HStack) | [VStack](/Documents/VStack) | Form |
+| [HStack](/Documents/HStack) | [VStack](/Documents/VStack) | [Form](/Documents/Form) |
 |---|---|---|
 | 水平配置 | 垂直配置 | ログインフォームの例 |
 | <img width="300" alt="image" src="/Image/HStack.png?raw=true"> | <img width="300" alt="image" src="/Image/VStack.png?raw=true"> | <img width="300" alt="image" src="/Image/LoginForm.png?raw=true"> |
-| [コード例を見る](/Documents/HStack) | [コード例を見る](/Documents/VStack)  | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/LoginForm_Example.swift) |
+| [コード例を見る](/Documents/HStack) | [コード例を見る](/Documents/VStack)  | [コード例を見る](/Documents/Form) |
  
 | ZStack | Grid | LazyVGrid |
 |---|---|---|
