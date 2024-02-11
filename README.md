@@ -13,15 +13,17 @@ iOSプログラミングやSwiftUIに関する記事、
 
 [🐘 マストドン @me@mszpro.com](https://sns.mszpro.com/@me)
 
-[☺️ Twitter @MszPro](https://twitter.com/MszPro)
+[ Bluesky @mszpro.com ](https://bsky.app/profile/mszpro.com)
 
-[☺️ サイト] <https://MszPro.com>
+[ Twitter @MszPro](https://twitter.com/MszPro)
+
+[ サイト ] <https://MszPro.com>
 
 <img width="150" src="https://cdn.mszmagic.com/static-web-content/AppClipImage_small.png">
 
 ## Updates
 
-Latest update: 2022-12-27 (Tuesday)
+Latest update: 2024-02-11
 
 ⚡️このページでは、
 より多くのビューモディファイアの例を更新中です。
