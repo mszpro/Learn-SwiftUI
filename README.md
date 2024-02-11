@@ -36,6 +36,7 @@ Latest update: 2022-12-27 (Tuesday)
 | 文字を表示 | マークダウンでテキストを表示する |
 | <img width="300" alt="image" src="/Image/Text.png?raw=true"> | <img width="300" alt="image" src="/Image/Text-Markdown-demo.png?raw=true"> |
 | [コード例を見る](/Documents/Text) | [コード例を見る](/Documents/Text_Markdown) |
+| <a href="https://www.youtube.com/watch?v=nHAV6Mx1bOQ"><img width="461" alt="スクリーンショット 2024-02-11 21 03 28" src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/f84a7555-97d7-471d-9c29-4bbbc6302f21"></a> | <a href="https://www.youtube.com/watch?v=nHAV6Mx1bOQ"><img width="461" alt="スクリーンショット 2024-02-11 21 03 28" src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/f84a7555-97d7-471d-9c29-4bbbc6302f21"></a> |
 
 <br>
 
