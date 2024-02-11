@@ -46,6 +46,7 @@ Latest update: 2022-12-27 (Tuesday)
 | 画像を表示 | SFシステム画像を表示 | インターネットから画像を読み込む |
 | <img width="300" alt="image" src="/Image/LocalImage.png?raw=true"> | <img width="300" alt="image" src="/Image/SFSymbolImage.png?raw=true"> | <img width="300" alt="image" src="/Image/AsyncImage_demo.png?raw=true"> |
 | [コード例を見る](/Documents/Image) | [コード例を見る](/Documents/SFSymbolImage) | [コード例を見る](/Documents/AsyncImage) |
+| <a href="https://www.youtube.com/watch?v=TegtJ3bEBeY"><img width="300" src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/f85bae69-2e6c-4ea4-9bea-bded10e0262e"></a> | <a href="https://www.youtube.com/watch?v=TegtJ3bEBeY"><img width="300" src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/f85bae69-2e6c-4ea4-9bea-bded10e0262e"></a> | <a href="https://www.youtube.com/watch?v=-8hQ56ajIVA"><img width="300" src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/b5e997df-81d3-4157-97f1-72367d0c66a5"></a> |
 
 <br>
 
@@ -131,7 +132,7 @@ Latest update: 2022-12-27 (Tuesday)
 |---|---|
 | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/List_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ForEachList_Example.swift) |
-| <a href="https://youtu.be/jHXP5TzvARk?feature=shared"><img width="467"  src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/c6b67d67-b164-4e22-ab17-73954ddb473f"></a> | - |
+| <a href="https://youtu.be/jHXP5TzvARk?feature=shared"><img width="300"src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/c6b67d67-b164-4e22-ab17-73954ddb473f"></a> | - |
 | - | - |
 
 <br>
