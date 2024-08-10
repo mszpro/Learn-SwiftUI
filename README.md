@@ -136,7 +136,7 @@ Latest update: 2024-02-11
 | <img width="300" alt="image" src="/Image/List.png?raw=true"> | <img width="300" alt="image" src="/Image/List.png?raw=true"> |
 | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/List_Example.swift) | [コード例を見る](https://github.com/mszpro/Learn-SwiftUI/blob/main/Code/ForEachList_Example.swift) |
 | <a href="https://youtu.be/jHXP5TzvARk?feature=shared"><img width="300"src="https://github.com/mszpro/Learn-SwiftUI/assets/68307970/c6b67d67-b164-4e22-ab17-73954ddb473f"></a> | - |
-| - | - |
+| To control the spacing between different sections, see [https://mszpro.com/swiftui-list-section-spacing/](https://mszpro.com/swiftui-list-section-spacing/) | - |
 
 <br>
 
